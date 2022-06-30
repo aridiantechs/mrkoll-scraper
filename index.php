@@ -354,7 +354,7 @@ function get_web_page( $url )
 
 
         foreach(array_unique($addresses) as $key => $address){
-            echo $key;
+//             echo $key;
 
             $input = trim($address);
 
