@@ -1,0 +1,778 @@
+2:a Villagatan 16 lgh 1001	~dSW_Cnnn1	Magnus	Hage	Magnus Birger Hage	19850616	Male	36	2:a Villagatan 16 lgh 1102	lgh	65341	Karlstad	54		
+2:a Villagatan 16 lgh 1001	fmnsbijja	Kristofer	Gumaelius	Kristofer Gumaelius		Male		2:a Villagatan 16		65341	Karlstad		+46703419571	
+2:a Villagatan 16 lgh 1001	xWZ51JJJJ7	Kristofer	Gumaelius	Leif Kristofer Gumaelius	19780102	Male	43	2:a Villagatan 16 lgh 1001	lgh	65341	Karlstad	92		
+2:a Villagatan 16 lgh 1001	L~MlZZ44mn	Niclas	Geijer	Bengt Niclas Geijer	19870130	Male	34	2:a Villagatan 16 lgh 1002	lgh	65341	Karlstad	54	+46739487087	
+2:a Villagatan 16 lgh 1001	LxS2-nooAK	John	Sjöberg	John Michael Sjöberg	19920823	Male	30	2:a Villagatan 16 lgh 1101	lgh	65341	Karlstad	64	+46707485004	
+2:a Villagatan 16 lgh 1002	~dSW_Cnnn1	Magnus	Hage	Magnus Birger Hage	19850616	Male	36	2:a Villagatan 16 lgh 1102	lgh	65341	Karlstad	54		
+2:a Villagatan 16 lgh 1002	fmnsbijja	Kristofer	Gumaelius	Kristofer Gumaelius		Male		2:a Villagatan 16		65341	Karlstad		+46703419571	
+2:a Villagatan 16 lgh 1002	xWZ51JJJJ7	Kristofer	Gumaelius	Leif Kristofer Gumaelius	19780102	Male	43	2:a Villagatan 16 lgh 1001	lgh	65341	Karlstad	92		
+2:a Villagatan 16 lgh 1002	L~MlZZ44mn	Niclas	Geijer	Bengt Niclas Geijer	19870130	Male	34	2:a Villagatan 16 lgh 1002	lgh	65341	Karlstad	54	+46739487087	
+2:a Villagatan 16 lgh 1002	LxS2-nooAK	John	Sjöberg	John Michael Sjöberg	19920823	Male	30	2:a Villagatan 16 lgh 1101	lgh	65341	Karlstad	64	+46707485004	
+2:a Villagatan 16 lgh 1101	~dSW_Cnnn1	Magnus	Hage	Magnus Birger Hage	19850616	Male	36	2:a Villagatan 16 lgh 1102	lgh	65341	Karlstad	54		
+2:a Villagatan 16 lgh 1101	fmnsbijja	Kristofer	Gumaelius	Kristofer Gumaelius		Male		2:a Villagatan 16		65341	Karlstad		+46703419571	
+2:a Villagatan 16 lgh 1101	xWZ51JJJJ7	Kristofer	Gumaelius	Leif Kristofer Gumaelius	19780102	Male	43	2:a Villagatan 16 lgh 1001	lgh	65341	Karlstad	92		
+2:a Villagatan 16 lgh 1101	L~MlZZ44mn	Niclas	Geijer	Bengt Niclas Geijer	19870130	Male	34	2:a Villagatan 16 lgh 1002	lgh	65341	Karlstad	54	+46739487087	
+2:a Villagatan 16 lgh 1101	LxS2-nooAK	John	Sjöberg	John Michael Sjöberg	19920823	Male	30	2:a Villagatan 16 lgh 1101	lgh	65341	Karlstad	64	+46707485004	
+2:a Villagatan 16 lgh 1102	~dSW_Cnnn1	Magnus	Hage	Magnus Birger Hage	19850616	Male	36	2:a Villagatan 16 lgh 1102	lgh	65341	Karlstad	54		
+2:a Villagatan 16 lgh 1102	fmnsbijja	Kristofer	Gumaelius	Kristofer Gumaelius		Male		2:a Villagatan 16		65341	Karlstad		+46703419571	
+2:a Villagatan 16 lgh 1102	xWZ51JJJJ7	Kristofer	Gumaelius	Leif Kristofer Gumaelius	19780102	Male	43	2:a Villagatan 16 lgh 1001	lgh	65341	Karlstad	92		
+2:a Villagatan 16 lgh 1102	L~MlZZ44mn	Niclas	Geijer	Bengt Niclas Geijer	19870130	Male	34	2:a Villagatan 16 lgh 1002	lgh	65341	Karlstad	54	+46739487087	
+2:a Villagatan 16 lgh 1102	LxS2-nooAK	John	Sjöberg	John Michael Sjöberg	19920823	Male	30	2:a Villagatan 16 lgh 1101	lgh	65341	Karlstad	64	+46707485004	
+2:a Villagatan 2	ySlPC-nOU1	Ewa	Korbutiak	Ewa Ingrid Isabella Korbutiak	19570121	Female	65	2:a Villagatan 2		65341	Karlstad	180	+46731585892	
+2:a Villagatan 3	~Ms555---v	Sebastian	Samuelsson	Bengt David Sebastian Samuelsson	19840312	Male	38	2:a Villagatan 3		65341	Karlstad	232		
+2:a Villagatan 3	xMlZ51111q	Behnaz	Alinia Samuelsson	Behnaz Alinia Samuelsson	19820916	Female	39	2:a Villagatan 3		65341	Karlstad	232		
+2:a Villagatan 4	VxxS2w555X	Maria	Gustafsson	Maria Christina Gustafsson	19720123	Female	50	2:a Villagatan 4		65341	Karlstad	180	+46707266270	
+2:a Villagatan 4	VxxS2w555-	Andreas	Gustafsson	Tommy Andreas Gustafsson	19720813	Male	50	2:a Villagatan 4		65341	Karlstad	180		
+2:a Villagatan 4	crudlrvf	Anton	Holländer	Anton Bernhard Holländer	20000426	Male	21	2:a Villagatan 4		65341	Karlstad	180		
+2:a Villagatan 4	lrxjaqvij	Emilia	Lassfolk	Emilia Lilly Lorella Lassfolk	20001122	Female	22	2:a Villagatan 4		65341	Karlstad	180		
+2:a Villagatan 5	dxRCwXvvvO	Malin	Törneland	Malin Marita Törneland	19760307	Female	45	2:a Villagatan 5		65341	Karlstad	222		
+2:a Villagatan 5	kpqstdjp	Mathilda	Törneland	Mathilda Törneland		Female		2:a Villagatan 5		65341	Karlstad		+46761843404	
+2:a Villagatan 6	dMZCnUkkJA	Lars-Olof	Mentzing	Lars-Olof Mentzing	19330620	Male	88	2:a Villagatan 6		65341	Karlstad	140	+46702513321	
+2:a Villagatan 6	zdgsvOGoJA	Gunnel	Nyström	Gunnel Ann-Gerd Nyström	19370909	Female	84	2:a Villagatan 6		65341	Karlstad	140	+46702642931	
+2:a Villagatan 7	0xPCno7BBF	Christina	Engelbrekt	Marie Christina Engelbrekt	19680503	Female	53	2:a Villagatan 7		65341	Karlstad	256		
+2:a Villagatan 7	yVzTPZZZZC	Niklas	Engelbrekt	Mats Niklas Engelbrekt	19621005	Male	59	2:a Villagatan 7		65341	Karlstad	256		
+2:a Villagatan 8 lgh 1001	iVVxSRZZZC	Anneli	Norgren	Anneli Marita Norgren	19560419	Female	65	2:a Villagatan 8 lgh 1101	lgh	65341	Karlstad	61		
+2:a Villagatan 8 lgh 1001	y0zWCXvvvO	Johan	Bengtsson	Johan Carl Oskar Bengtsson	19940318	Male	27	2:a Villagatan 8 lgh 1003	lgh	65341	Karlstad	31		
+2:a Villagatan 8 lgh 1001	dRZsw-1Hqb	Anna	Nilsson	Anna Maria Elisabeth Nilsson	19820531	Female	39	2:a Villagatan 8 lgh 1001	lgh	65341	Karlstad	61		
+2:a Villagatan 8 lgh 1003	iVVxSRZZZC	Anneli	Norgren	Anneli Marita Norgren	19560419	Female	65	2:a Villagatan 8 lgh 1101	lgh	65341	Karlstad	61		
+2:a Villagatan 8 lgh 1003	dRZsw-1Hqb	Anna	Nilsson	Anna Maria Elisabeth Nilsson	19820531	Female	39	2:a Villagatan 8 lgh 1001	lgh	65341	Karlstad	61		
+2:a Villagatan 8 lgh 1003	y0zWCXvvvO	Johan	Bengtsson	Johan Carl Oskar Bengtsson	19940318	Male	27	2:a Villagatan 8 lgh 1003	lgh	65341	Karlstad	31		
+2:a Villagatan 8 lgh 1101	iVVxSRZZZC	Anneli	Norgren	Anneli Marita Norgren	19560419	Female	65	2:a Villagatan 8 lgh 1101	lgh	65341	Karlstad	61		
+2:a Villagatan 8 lgh 1101	dRZsw-1Hqb	Anna	Nilsson	Anna Maria Elisabeth Nilsson	19820531	Female	39	2:a Villagatan 8 lgh 1001	lgh	65341	Karlstad	61		
+2:a Villagatan 8 lgh 1101	y0zWCXvvvO	Johan	Bengtsson	Johan Carl Oskar Bengtsson	19940318	Male	27	2:a Villagatan 8 lgh 1003	lgh	65341	Karlstad	31		
+2:a Villagatan 9	LdSTRZsss_	Kurt	Johansson	Kurt Erling Johansson	19530915	Male	68	2:a Villagatan 9		65341	Karlstad	126	+46705622772	
+2:a Villagatan 9	LdSTRZsssC	Britt-Marie	Johansson	Inger Britt-Marie Elisabeth Johansson	19570926	Female	65	2:a Villagatan 9		65341	Karlstad	126	+46706525529	
+3:e Villagatan 3	xRl5-4OUHG	Håkan	Stolpe	Jan Håkan Stolpe	19661125	Male	56	3:e Villagatan 3		65341	Karlstad	110		
+3:e Villagatan 9	xlZZC4O1Gq	Eva Linnéa	Harvig	Eva Linnéa Högman Harvig	19511103	Female	70	3:e Villagatan 9		65341	Karlstad	145	+46706314591	
+4:e Villagatan 1 lgh 1101	LMWllls_w5	Mikael	Pettersson	Bo Mikael Pettersson	19610422	Male	61	4:e Villagatan 1 lgh 1101	lgh	65341	Karlstad	75	+46706877258	
+4:e Villagatan 1 lgh 1101	ySWlsw4mOU	Lena	Falander	Lena Margit Falander	19500607	Female	71	4:e Villagatan 1 lgh 1102	lgh	65341	Karlstad	53		
+4:e Villagatan 1 lgh 1101	0zdSMjjjjs	Anna-Karin	Norman	Anna-Karin Norman	19690104	Female	52	4:e Villagatan 1 lgh 1101	lgh	65341	Karlstad	75		
+4:e Villagatan 1 lgh 1102	LMWllls_w5	Mikael	Pettersson	Bo Mikael Pettersson	19610422	Male	61	4:e Villagatan 1 lgh 1101	lgh	65341	Karlstad	75	+46706877258	
+4:e Villagatan 1 lgh 1102	ySWlsw4mOU	Lena	Falander	Lena Margit Falander	19500607	Female	71	4:e Villagatan 1 lgh 1102	lgh	65341	Karlstad	53		
+4:e Villagatan 1 lgh 1102	0zdSMjjjjs	Anna-Karin	Norman	Anna-Karin Norman	19690104	Female	52	4:e Villagatan 1 lgh 1101	lgh	65341	Karlstad	75		
+4:e Villagatan 10	V~xM__vvnO	Linnea	Hallman	Linnea Maria Hallman	19851202	Female	36	4:e Villagatan 10		65341	Karlstad	193		
+4:e Villagatan 10	Lg2wXmOOOH	Robert	Carlesten	Robert Erik Olof Carlesten	19780203	Male	43	4:e Villagatan 10		65341	Karlstad	193	+46708888828	
+4:e Villagatan 10	VSSj55XmOU	Robert	Carlesten	Robert Carlesten		Male		4:e Villagatan 10		65341	Karlstad		+46708888828	
+4:e Villagatan 11	dWP-1koooA	Mirja	Berggren	Mirja Helena Berggren	19760703	Female	45	4:e Villagatan 11		65341	Karlstad		+46730359303	
+4:e Villagatan 11	0xlCw4Gqko	Jörgen	Lundbäck	Folke Jörgen Lundbäck	19490413	Male	73	4:e Villagatan 11		65341	Karlstad		+46706443635	
+4:e Villagatan 12 lgh 1101	xjXGquaQ6F	Birgit	Persson	Birgit Patricia Persson	19451118	Female	76	4:e Villagatan 12 lgh 1201	lgh	65341	Karlstad	74	+46709756964	
+4:e Villagatan 12 lgh 1101	y~Tjsm1Hqb	Jari	Levonen	Jari Pekka Levonen	19590227	Male	62	4:e Villagatan 12 lgh 1202	lgh	65341	Karlstad	98	+46703801959	
+4:e Villagatan 12 lgh 1101	0Tj-vHbkJA	Jessica	Helgesson	Anna-Karina Jessica Helgesson	19641026	Female	58	4:e Villagatan 12 lgh 1101	lgh	65341	Karlstad	74	+46709569525	
+4:e Villagatan 12 lgh 1101	Lzl2ZX444n	Bengt	Sonnelid	Bengt-Olof Sonnelid	19431107	Male	78	4:e Villagatan 12 lgh 1102	lgh	65341	Karlstad	98		
+4:e Villagatan 12 lgh 1102	xjXGquaQ6F	Birgit	Persson	Birgit Patricia Persson	19451118	Female	76	4:e Villagatan 12 lgh 1201	lgh	65341	Karlstad	74	+46709756964	
+4:e Villagatan 12 lgh 1102	y~Tjsm1Hqb	Jari	Levonen	Jari Pekka Levonen	19590227	Male	62	4:e Villagatan 12 lgh 1202	lgh	65341	Karlstad	98	+46703801959	
+4:e Villagatan 12 lgh 1102	0Tj-vHbkJA	Jessica	Helgesson	Anna-Karina Jessica Helgesson	19641026	Female	58	4:e Villagatan 12 lgh 1101	lgh	65341	Karlstad	74	+46709569525	
+4:e Villagatan 12 lgh 1102	Lzl2ZX444n	Bengt	Sonnelid	Bengt-Olof Sonnelid	19431107	Male	78	4:e Villagatan 12 lgh 1102	lgh	65341	Karlstad	98		
+4:e Villagatan 12 lgh 1201	xjXGquaQ6F	Birgit	Persson	Birgit Patricia Persson	19451118	Female	76	4:e Villagatan 12 lgh 1201	lgh	65341	Karlstad	74	+46709756964	
+4:e Villagatan 12 lgh 1201	y~Tjsm1Hqb	Jari	Levonen	Jari Pekka Levonen	19590227	Male	62	4:e Villagatan 12 lgh 1202	lgh	65341	Karlstad	98	+46703801959	
+4:e Villagatan 12 lgh 1201	0Tj-vHbkJA	Jessica	Helgesson	Anna-Karina Jessica Helgesson	19641026	Female	58	4:e Villagatan 12 lgh 1101	lgh	65341	Karlstad	74	+46709569525	
+4:e Villagatan 12 lgh 1201	Lzl2ZX444n	Bengt	Sonnelid	Bengt-Olof Sonnelid	19431107	Male	78	4:e Villagatan 12 lgh 1102	lgh	65341	Karlstad	98		
+4:e Villagatan 12 lgh 1202	xjXGquaQ6F	Birgit	Persson	Birgit Patricia Persson	19451118	Female	76	4:e Villagatan 12 lgh 1201	lgh	65341	Karlstad	74	+46709756964	
+4:e Villagatan 12 lgh 1202	y~Tjsm1Hqb	Jari	Levonen	Jari Pekka Levonen	19590227	Male	62	4:e Villagatan 12 lgh 1202	lgh	65341	Karlstad	98	+46703801959	
+4:e Villagatan 12 lgh 1202	0Tj-vHbkJA	Jessica	Helgesson	Anna-Karina Jessica Helgesson	19641026	Female	58	4:e Villagatan 12 lgh 1101	lgh	65341	Karlstad	74	+46709569525	
+4:e Villagatan 12 lgh 1202	Lzl2ZX444n	Bengt	Sonnelid	Bengt-Olof Sonnelid	19431107	Male	78	4:e Villagatan 12 lgh 1102	lgh	65341	Karlstad	98		
+4:e Villagatan 13 lgh 1002	xMMR_nGGGk	Lars	Johansson	Bagg Lars Harry Mikael Johansson	19610119	Male	60	4:e Villagatan 13 lgh 1101	lgh	65341	Karlstad	68		
+4:e Villagatan 13 lgh 1002	0hg2wvOUHG	Jesper	Johansson	Jesper Mikael Johansson	19920617	Male	29	4:e Villagatan 13 lgh 1002	lgh	65341	Karlstad	68		
+4:e Villagatan 13 lgh 1002	zxjwOUoJK7	Anita	Skoglund	Anita Kristina Skoglund	19670726	Female	55	4:e Villagatan 13 lgh 1102	lgh	65341	Karlstad	68	+46761261369	
+4:e Villagatan 13 lgh 1101	xMMR_nGGGk	Lars	Johansson	Bagg Lars Harry Mikael Johansson	19610119	Male	60	4:e Villagatan 13 lgh 1101	lgh	65341	Karlstad	68		
+4:e Villagatan 13 lgh 1101	0hg2wvOUHG	Jesper	Johansson	Jesper Mikael Johansson	19920617	Male	29	4:e Villagatan 13 lgh 1002	lgh	65341	Karlstad	68		
+4:e Villagatan 13 lgh 1101	zxjwOUoJK7	Anita	Skoglund	Anita Kristina Skoglund	19670726	Female	55	4:e Villagatan 13 lgh 1102	lgh	65341	Karlstad	68	+46761261369	
+4:e Villagatan 13 lgh 1102	xMMR_nGGGk	Lars	Johansson	Bagg Lars Harry Mikael Johansson	19610119	Male	60	4:e Villagatan 13 lgh 1101	lgh	65341	Karlstad	68		
+4:e Villagatan 13 lgh 1102	0hg2wvOUHG	Jesper	Johansson	Jesper Mikael Johansson	19920617	Male	29	4:e Villagatan 13 lgh 1002	lgh	65341	Karlstad	68		
+4:e Villagatan 13 lgh 1102	zxjwOUoJK7	Anita	Skoglund	Anita Kristina Skoglund	19670726	Female	55	4:e Villagatan 13 lgh 1102	lgh	65341	Karlstad	68	+46761261369	
+4:e Villagatan 14 lgh 1101	VggZXnOOOU	Fredrik	Olin	Fredrik Olin	19490520	Male	72	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98	+46730504449	
+4:e Villagatan 14 lgh 1101	VggZXnOOO1	Ingela	Benneberg	Ingela Ruth Benneberg	19461222	Female	76	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98		
+4:e Villagatan 14 lgh 1101	0zTjZvvvvO	Mikael	Pätsi	Mikael Jan Benny Pätsi	19811208	Male	41	4:e Villagatan 14 lgh 1201	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1101	zSl241kEEa	Lena	Wickström	Lena Marie Wickström	19611223	Female	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74	+46722254832	
+4:e Villagatan 14 lgh 1101	ddWs_X444v	Lisbeth Ingegerd	Selöfalk	Lisbeth Ingegerd Selöfalk	19520629	Female	69	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74	+46702214138	
+4:e Villagatan 14 lgh 1101	i~T2swwwwX	Håkan	Wickström	Bo Håkan Ragnar Wickström	19610425	Male	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1101	iyS2s_wwwX	Tore Sten-Eric	Selöfalk	Tore Sten-Eric Selöfalk	19470902	Male	75	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1103	VggZXnOOOU	Fredrik	Olin	Fredrik Olin	19490520	Male	72	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98	+46730504449	
+4:e Villagatan 14 lgh 1103	VggZXnOOO1	Ingela	Benneberg	Ingela Ruth Benneberg	19461222	Female	76	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98		
+4:e Villagatan 14 lgh 1103	0zTjZvvvvO	Mikael	Pätsi	Mikael Jan Benny Pätsi	19811208	Male	41	4:e Villagatan 14 lgh 1201	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1103	zSl241kEEa	Lena	Wickström	Lena Marie Wickström	19611223	Female	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74	+46722254832	
+4:e Villagatan 14 lgh 1103	ddWs_X444v	Lisbeth Ingegerd	Selöfalk	Lisbeth Ingegerd Selöfalk	19520629	Female	69	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74	+46702214138	
+4:e Villagatan 14 lgh 1103	i~T2swwwwX	Håkan	Wickström	Bo Håkan Ragnar Wickström	19610425	Male	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1103	iyS2s_wwwX	Tore Sten-Eric	Selöfalk	Tore Sten-Eric Selöfalk	19470902	Male	75	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1201	VggZXnOOOU	Fredrik	Olin	Fredrik Olin	19490520	Male	72	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98	+46730504449	
+4:e Villagatan 14 lgh 1201	VggZXnOOO1	Ingela	Benneberg	Ingela Ruth Benneberg	19461222	Female	76	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98		
+4:e Villagatan 14 lgh 1201	0zTjZvvvvO	Mikael	Pätsi	Mikael Jan Benny Pätsi	19811208	Male	41	4:e Villagatan 14 lgh 1201	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1201	zSl241kEEa	Lena	Wickström	Lena Marie Wickström	19611223	Female	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74	+46722254832	
+4:e Villagatan 14 lgh 1201	ddWs_X444v	Lisbeth Ingegerd	Selöfalk	Lisbeth Ingegerd Selöfalk	19520629	Female	69	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74	+46702214138	
+4:e Villagatan 14 lgh 1201	i~T2swwwwX	Håkan	Wickström	Bo Håkan Ragnar Wickström	19610425	Male	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1201	iyS2s_wwwX	Tore Sten-Eric	Selöfalk	Tore Sten-Eric Selöfalk	19470902	Male	75	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1202	VggZXnOOOU	Fredrik	Olin	Fredrik Olin	19490520	Male	72	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98	+46730504449	
+4:e Villagatan 14 lgh 1202	VggZXnOOO1	Ingela	Benneberg	Ingela Ruth Benneberg	19461222	Female	76	4:e Villagatan 14 lgh 1202	lgh	65341	Karlstad	98		
+4:e Villagatan 14 lgh 1202	0zTjZvvvvO	Mikael	Pätsi	Mikael Jan Benny Pätsi	19811208	Male	41	4:e Villagatan 14 lgh 1201	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1202	zSl241kEEa	Lena	Wickström	Lena Marie Wickström	19611223	Female	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74	+46722254832	
+4:e Villagatan 14 lgh 1202	ddWs_X444v	Lisbeth Ingegerd	Selöfalk	Lisbeth Ingegerd Selöfalk	19520629	Female	69	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74	+46702214138	
+4:e Villagatan 14 lgh 1202	i~T2swwwwX	Håkan	Wickström	Bo Håkan Ragnar Wickström	19610425	Male	61	4:e Villagatan 14 lgh 1103	lgh	65341	Karlstad	74		
+4:e Villagatan 14 lgh 1202	iyS2s_wwwX	Tore Sten-Eric	Selöfalk	Tore Sten-Eric Selöfalk	19470902	Male	75	4:e Villagatan 14 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 0901	y~gWsCmmOU	Oscar	Jansson	Oscar Ludwig Jansson	19920626	Male	29	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46768019615	
+4:e Villagatan 15 lgh 0901	cobelgsx	Andreas	Angbrant	Per Andreas Angbrant	19791107	Male	42	4:e Villagatan 15 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 0901	iySRljj2s_	Andreas	Jernberg	Dan Andreas Jernberg	19870917	Male	34	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74	+46703202115	
+4:e Villagatan 15 lgh 0901	zTTW_nkkkA	Ella	Dahlin	Ella Elisabeth Birgitta Dahlin	19981130	Female	23	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46762949138	
+4:e Villagatan 15 lgh 0901	LMZ4qAucaB	Per	Jonsson	Olov Per Arne Jonsson	19941216	Male	27	4:e Villagatan 15 lgh 0901	lgh	65341	Karlstad		+46761411737	
+4:e Villagatan 15 lgh 0901	hdP_noEaB6	Erika	Jernberg	Anna Erika Madelene Asklöf Jernberg	19850226	Female	36	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 1101	y~gWsCmmOU	Oscar	Jansson	Oscar Ludwig Jansson	19920626	Male	29	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46768019615	
+4:e Villagatan 15 lgh 1101	cobelgsx	Andreas	Angbrant	Per Andreas Angbrant	19791107	Male	42	4:e Villagatan 15 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 1101	iySRljj2s_	Andreas	Jernberg	Dan Andreas Jernberg	19870917	Male	34	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74	+46703202115	
+4:e Villagatan 15 lgh 1101	zTTW_nkkkA	Ella	Dahlin	Ella Elisabeth Birgitta Dahlin	19981130	Female	23	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46762949138	
+4:e Villagatan 15 lgh 1101	LMZ4qAucaB	Per	Jonsson	Olov Per Arne Jonsson	19941216	Male	27	4:e Villagatan 15 lgh 0901	lgh	65341	Karlstad		+46761411737	
+4:e Villagatan 15 lgh 1101	hdP_noEaB6	Erika	Jernberg	Anna Erika Madelene Asklöf Jernberg	19850226	Female	36	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 1201	y~gWsCmmOU	Oscar	Jansson	Oscar Ludwig Jansson	19920626	Male	29	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46768019615	
+4:e Villagatan 15 lgh 1201	cobelgsx	Andreas	Angbrant	Per Andreas Angbrant	19791107	Male	42	4:e Villagatan 15 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 1201	iySRljj2s_	Andreas	Jernberg	Dan Andreas Jernberg	19870917	Male	34	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74	+46703202115	
+4:e Villagatan 15 lgh 1201	LMZ4qAucaB	Per	Jonsson	Olov Per Arne Jonsson	19941216	Male	27	4:e Villagatan 15 lgh 0901	lgh	65341	Karlstad		+46761411737	
+4:e Villagatan 15 lgh 1201	zTTW_nkkkA	Ella	Dahlin	Ella Elisabeth Birgitta Dahlin	19981130	Female	23	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46762949138	
+4:e Villagatan 15 lgh 1201	hdP_noEaB6	Erika	Jernberg	Anna Erika Madelene Asklöf Jernberg	19850226	Female	36	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 1202	y~gWsCmmOU	Oscar	Jansson	Oscar Ludwig Jansson	19920626	Male	29	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46768019615	
+4:e Villagatan 15 lgh 1202	cobelgsx	Andreas	Angbrant	Per Andreas Angbrant	19791107	Male	42	4:e Villagatan 15 lgh 1101	lgh	65341	Karlstad	74		
+4:e Villagatan 15 lgh 1202	iySRljj2s_	Andreas	Jernberg	Dan Andreas Jernberg	19870917	Male	34	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74	+46703202115	
+4:e Villagatan 15 lgh 1202	zTTW_nkkkA	Ella	Dahlin	Ella Elisabeth Birgitta Dahlin	19981130	Female	23	4:e Villagatan 15 lgh 1201	lgh	65341	Karlstad	74	+46762949138	
+4:e Villagatan 15 lgh 1202	LMZ4qAucaB	Per	Jonsson	Olov Per Arne Jonsson	19941216	Male	27	4:e Villagatan 15 lgh 0901	lgh	65341	Karlstad		+46761411737	
+4:e Villagatan 15 lgh 1202	hdP_noEaB6	Erika	Jernberg	Anna Erika Madelene Asklöf Jernberg	19850226	Female	36	4:e Villagatan 15 lgh 1202	lgh	65341	Karlstad	74		
+4:e Villagatan 16 lgh 1101	VxMP2ZXXXm	Bengt	Sundin	Bengt Olov Sundin	19720323	Male	50	4:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1101	h~xMs4mU1H	Mats	Johansson	Mats Inge Johansson	19690405	Male	52	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1101	y0zdxj5554	Caroline	Sander	Karin Caroline Sander	19810922	Female	41	4:e Villagatan 16 lgh 1103	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1101	ddTZwvvmOU	Andreas	Asker	Jan Andreas Asker	19930108	Male	29	4:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	34	+46738485739	
+4:e Villagatan 16 lgh 1101	zMRR_nHAK7	Mikael	Söderberg	Kent Mikael Söderberg	19770127	Male	44	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1101	jlcteacg	Jenny	Moström	Jenny Lydia Elisabeth Moström	19820413	Female	40	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1101	0LLLWCCw-X	Karin Irene	Broberg	Karin Irene Broberg	19811218	Female	40	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80	+46725420440	
+4:e Villagatan 16 lgh 1102	VxMP2ZXXXm	Bengt	Sundin	Bengt Olov Sundin	19720323	Male	50	4:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1102	h~xMs4mU1H	Mats	Johansson	Mats Inge Johansson	19690405	Male	52	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1102	y0zdxj5554	Caroline	Sander	Karin Caroline Sander	19810922	Female	41	4:e Villagatan 16 lgh 1103	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1102	ddTZwvvmOU	Andreas	Asker	Jan Andreas Asker	19930108	Male	29	4:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	34	+46738485739	
+4:e Villagatan 16 lgh 1102	zMRR_nHAK7	Mikael	Söderberg	Kent Mikael Söderberg	19770127	Male	44	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1102	0LLLWCCw-X	Karin Irene	Broberg	Karin Irene Broberg	19811218	Female	40	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80	+46725420440	
+4:e Villagatan 16 lgh 1102	jlcteacg	Jenny	Moström	Jenny Lydia Elisabeth Moström	19820413	Female	40	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1103	VxMP2ZXXXm	Bengt	Sundin	Bengt Olov Sundin	19720323	Male	50	4:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1103	h~xMs4mU1H	Mats	Johansson	Mats Inge Johansson	19690405	Male	52	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1103	y0zdxj5554	Caroline	Sander	Karin Caroline Sander	19810922	Female	41	4:e Villagatan 16 lgh 1103	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1103	ddTZwvvmOU	Andreas	Asker	Jan Andreas Asker	19930108	Male	29	4:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	34	+46738485739	
+4:e Villagatan 16 lgh 1103	zMRR_nHAK7	Mikael	Söderberg	Kent Mikael Söderberg	19770127	Male	44	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1103	jlcteacg	Jenny	Moström	Jenny Lydia Elisabeth Moström	19820413	Female	40	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1103	0LLLWCCw-X	Karin Irene	Broberg	Karin Irene Broberg	19811218	Female	40	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80	+46725420440	
+4:e Villagatan 16 lgh 1201	VxMP2ZXXXm	Bengt	Sundin	Bengt Olov Sundin	19720323	Male	50	4:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1201	h~xMs4mU1H	Mats	Johansson	Mats Inge Johansson	19690405	Male	52	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1201	y0zdxj5554	Caroline	Sander	Karin Caroline Sander	19810922	Female	41	4:e Villagatan 16 lgh 1103	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1201	ddTZwvvmOU	Andreas	Asker	Jan Andreas Asker	19930108	Male	29	4:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	34	+46738485739	
+4:e Villagatan 16 lgh 1201	zMRR_nHAK7	Mikael	Söderberg	Kent Mikael Söderberg	19770127	Male	44	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1201	0LLLWCCw-X	Karin Irene	Broberg	Karin Irene Broberg	19811218	Female	40	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80	+46725420440	
+4:e Villagatan 16 lgh 1201	jlcteacg	Jenny	Moström	Jenny Lydia Elisabeth Moström	19820413	Female	40	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1202	VxMP2ZXXXm	Bengt	Sundin	Bengt Olov Sundin	19720323	Male	50	4:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1202	h~xMs4mU1H	Mats	Johansson	Mats Inge Johansson	19690405	Male	52	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1202	y0zdxj5554	Caroline	Sander	Karin Caroline Sander	19810922	Female	41	4:e Villagatan 16 lgh 1103	lgh	65341	Karlstad	64		
+4:e Villagatan 16 lgh 1202	ddTZwvvmOU	Andreas	Asker	Jan Andreas Asker	19930108	Male	29	4:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	34	+46738485739	
+4:e Villagatan 16 lgh 1202	zMRR_nHAK7	Mikael	Söderberg	Kent Mikael Söderberg	19770127	Male	44	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1202	jlcteacg	Jenny	Moström	Jenny Lydia Elisabeth Moström	19820413	Female	40	4:e Villagatan 16 lgh 1202	lgh	65341	Karlstad	80		
+4:e Villagatan 16 lgh 1202	0LLLWCCw-X	Karin Irene	Broberg	Karin Irene Broberg	19811218	Female	40	4:e Villagatan 16 lgh 1201	lgh	65341	Karlstad	80	+46725420440	
+4:e Villagatan 17 lgh 1001	L~MswXGGbk	Claes	Axelsson	Claes Håkan Axelsson	19551206	Male	66	4:e Villagatan 17 lgh 1001	lgh	65341	Karlstad	65	+46709480461	
+4:e Villagatan 17 lgh 1001	xxRRCmHHHb	Hans	Kjellberg	Hans Sixten Kjellberg	19590117	Male	62	4:e Villagatan 17 lgh 1101	lgh	65341	Karlstad	65		
+4:e Villagatan 17 lgh 1001	0Tl5OGKKeu	Margaretha	Axelsson	Astrid Monika Margaretha Axelsson	19310710	Female	91	4:e Villagatan 17 lgh 1001	lgh	65341	Karlstad	65	+46739491874	
+4:e Villagatan 17 lgh 1001	hTgjZ5OO1H	Gunnel Josefine Margareta	Engelbrektsson	Gunnel Josefine Margareta Engelbrektsson	19460423	Female	76	4:e Villagatan 17 lgh 1102	lgh	65341	Karlstad	65	+46702298270	
+4:e Villagatan 17 lgh 1101	L~MswXGGbk	Claes	Axelsson	Claes Håkan Axelsson	19551206	Male	66	4:e Villagatan 17 lgh 1001	lgh	65341	Karlstad	65	+46709480461	
+4:e Villagatan 17 lgh 1101	xxRRCmHHHb	Hans	Kjellberg	Hans Sixten Kjellberg	19590117	Male	62	4:e Villagatan 17 lgh 1101	lgh	65341	Karlstad	65		
+4:e Villagatan 17 lgh 1101	0Tl5OGKKeu	Margaretha	Axelsson	Astrid Monika Margaretha Axelsson	19310710	Female	91	4:e Villagatan 17 lgh 1001	lgh	65341	Karlstad	65	+46739491874	
+4:e Villagatan 17 lgh 1101	hTgjZ5OO1H	Gunnel Josefine Margareta	Engelbrektsson	Gunnel Josefine Margareta Engelbrektsson	19460423	Female	76	4:e Villagatan 17 lgh 1102	lgh	65341	Karlstad	65	+46702298270	
+4:e Villagatan 17 lgh 1102	L~MswXGGbk	Claes	Axelsson	Claes Håkan Axelsson	19551206	Male	66	4:e Villagatan 17 lgh 1001	lgh	65341	Karlstad	65	+46709480461	
+4:e Villagatan 17 lgh 1102	xxRRCmHHHb	Hans	Kjellberg	Hans Sixten Kjellberg	19590117	Male	62	4:e Villagatan 17 lgh 1101	lgh	65341	Karlstad	65		
+4:e Villagatan 17 lgh 1102	0Tl5OGKKeu	Margaretha	Axelsson	Astrid Monika Margaretha Axelsson	19310710	Female	91	4:e Villagatan 17 lgh 1001	lgh	65341	Karlstad	65	+46739491874	
+4:e Villagatan 17 lgh 1102	hTgjZ5OO1H	Gunnel Josefine Margareta	Engelbrektsson	Gunnel Josefine Margareta Engelbrektsson	19460423	Female	76	4:e Villagatan 17 lgh 1102	lgh	65341	Karlstad	65	+46702298270	
+4:e Villagatan 19 lgh 1001	aptzjnnv	Saifon	Boonmee	Saifon Boonmee	19780202	Female	43	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1001	LMjjwX444n	Nicklas	Eskilsson	Sven Nicklas Åke Eskilsson	19930524	Male	29	4:e Villagatan 19 lgh 1101	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1001	yVzxPj_w-X	Jenny Anita	Myrtenkvist	Jenny Anita Myrtenkvist	19590429	Female	62	4:e Villagatan 19 lgh 1103	lgh	65341	Karlstad	47	+46720242741	
+4:e Villagatan 19 lgh 1001	~zlPjCwww5	Gunhild Alvina	Björklund	Gunhild Alvina Björklund	19371016	Female	84	4:e Villagatan 19 lgh 1003	lgh	65341	Karlstad	47	+46702916288	
+4:e Villagatan 19 lgh 1001	xlj-OqboAK	Robertas	Freitakas	Robertas Freitakas	19731124	Male	49	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1002	aptzjnnv	Saifon	Boonmee	Saifon Boonmee	19780202	Female	43	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1002	LMjjwX444n	Nicklas	Eskilsson	Sven Nicklas Åke Eskilsson	19930524	Male	29	4:e Villagatan 19 lgh 1101	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1002	yVzxPj_w-X	Jenny Anita	Myrtenkvist	Jenny Anita Myrtenkvist	19590429	Female	62	4:e Villagatan 19 lgh 1103	lgh	65341	Karlstad	47	+46720242741	
+4:e Villagatan 19 lgh 1002	~zlPjCwww5	Gunhild Alvina	Björklund	Gunhild Alvina Björklund	19371016	Female	84	4:e Villagatan 19 lgh 1003	lgh	65341	Karlstad	47	+46702916288	
+4:e Villagatan 19 lgh 1002	xlj-OqboAK	Robertas	Freitakas	Robertas Freitakas	19731124	Male	49	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1003	aptzjnnv	Saifon	Boonmee	Saifon Boonmee	19780202	Female	43	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1003	LMjjwX444n	Nicklas	Eskilsson	Sven Nicklas Åke Eskilsson	19930524	Male	29	4:e Villagatan 19 lgh 1101	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1003	yVzxPj_w-X	Jenny Anita	Myrtenkvist	Jenny Anita Myrtenkvist	19590429	Female	62	4:e Villagatan 19 lgh 1103	lgh	65341	Karlstad	47	+46720242741	
+4:e Villagatan 19 lgh 1003	~zlPjCwww5	Gunhild Alvina	Björklund	Gunhild Alvina Björklund	19371016	Female	84	4:e Villagatan 19 lgh 1003	lgh	65341	Karlstad	47	+46702916288	
+4:e Villagatan 19 lgh 1003	xlj-OqboAK	Robertas	Freitakas	Robertas Freitakas	19731124	Male	49	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1101	aptzjnnv	Saifon	Boonmee	Saifon Boonmee	19780202	Female	43	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1101	LMjjwX444n	Nicklas	Eskilsson	Sven Nicklas Åke Eskilsson	19930524	Male	29	4:e Villagatan 19 lgh 1101	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1101	yVzxPj_w-X	Jenny Anita	Myrtenkvist	Jenny Anita Myrtenkvist	19590429	Female	62	4:e Villagatan 19 lgh 1103	lgh	65341	Karlstad	47	+46720242741	
+4:e Villagatan 19 lgh 1101	~zlPjCwww5	Gunhild Alvina	Björklund	Gunhild Alvina Björklund	19371016	Female	84	4:e Villagatan 19 lgh 1003	lgh	65341	Karlstad	47	+46702916288	
+4:e Villagatan 19 lgh 1101	xlj-OqboAK	Robertas	Freitakas	Robertas Freitakas	19731124	Male	49	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1103	aptzjnnv	Saifon	Boonmee	Saifon Boonmee	19780202	Female	43	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1103	LMjjwX444n	Nicklas	Eskilsson	Sven Nicklas Åke Eskilsson	19930524	Male	29	4:e Villagatan 19 lgh 1101	lgh	65341	Karlstad	47		
+4:e Villagatan 19 lgh 1103	yVzxPj_w-X	Jenny Anita	Myrtenkvist	Jenny Anita Myrtenkvist	19590429	Female	62	4:e Villagatan 19 lgh 1103	lgh	65341	Karlstad	47	+46720242741	
+4:e Villagatan 19 lgh 1103	~zlPjCwww5	Gunhild Alvina	Björklund	Gunhild Alvina Björklund	19371016	Female	84	4:e Villagatan 19 lgh 1003	lgh	65341	Karlstad	47	+46702916288	
+4:e Villagatan 19 lgh 1103	xlj-OqboAK	Robertas	Freitakas	Robertas Freitakas	19731124	Male	49	4:e Villagatan 19 lgh 1001	lgh	65341	Karlstad	47		
+4:e Villagatan 2	fmufcqqs	Johanna	Ioannidis	Johanna Ebba Maria Ioannidis	20010322	Female	21	4:e Villagatan 2		65341	Karlstad	225		
+4:e Villagatan 2	~S2s5OoucE	Robert	Christenson	Robert Mikael Christenson	19770918	Male	44	4:e Villagatan 2A		65341	Karlstad	225		
+4:e Villagatan 2	~TTMRls_w5	Nina	Christenson	Nina Birgitta Christenson	19751006	Female	46	4:e Villagatan 2A		65341	Karlstad	225	+46703974328	
+4:e Villagatan 3 lgh 1101	0LMP-1JKK7	Linda	Axelsson	Linda Ruth Axelsson	19491113	Female	73	4:e Villagatan 3 lgh 1101	lgh	65341	Karlstad	75	+46702242353	
+4:e Villagatan 3 lgh 1101	zRZvUUboAK	Bengt	Malm	Bengt Olof Malm	19520313	Male	70	4:e Villagatan 3 lgh 1101	lgh	65341	Karlstad	75	+46705213053	
+4:e Villagatan 3 lgh 1101	zxW_vO1Hqb	Christian	Karlsson	Christian Håkan Karlsson	19940424	Male	28	4:e Villagatan 3 lgh 1301	lgh	65341	Karlstad	90		
+4:e Villagatan 3 lgh 1201	0LMP-1JKK7	Linda	Axelsson	Linda Ruth Axelsson	19491113	Female	73	4:e Villagatan 3 lgh 1101	lgh	65341	Karlstad	75	+46702242353	
+4:e Villagatan 3 lgh 1201	zRZvUUboAK	Bengt	Malm	Bengt Olof Malm	19520313	Male	70	4:e Villagatan 3 lgh 1101	lgh	65341	Karlstad	75	+46705213053	
+4:e Villagatan 3 lgh 1201	zxW_vO1Hqb	Christian	Karlsson	Christian Håkan Karlsson	19940424	Male	28	4:e Villagatan 3 lgh 1301	lgh	65341	Karlstad	90		
+4:e Villagatan 3 lgh 1301	0LMP-1JKK7	Linda	Axelsson	Linda Ruth Axelsson	19491113	Female	73	4:e Villagatan 3 lgh 1101	lgh	65341	Karlstad	75	+46702242353	
+4:e Villagatan 3 lgh 1301	zRZvUUboAK	Bengt	Malm	Bengt Olof Malm	19520313	Male	70	4:e Villagatan 3 lgh 1101	lgh	65341	Karlstad	75	+46705213053	
+4:e Villagatan 3 lgh 1301	zxW_vO1Hqb	Christian	Karlsson	Christian Håkan Karlsson	19940424	Male	28	4:e Villagatan 3 lgh 1301	lgh	65341	Karlstad	90		
+4:e Villagatan 4 lgh 1001	xTP2XnOOOU	Ezio	Kancijanic	Ezio Kancijanic	19640223	Male	58	4:e Villagatan 4 lgh 1201	lgh	65341	Karlstad	44	+46705255547	
+4:e Villagatan 4 lgh 1001	0LTWCX4UU1	Bertil	Carlsson	Sven Bertil Carlsson	19480913	Male	74	4:e Villagatan 4 lgh 1001	lgh	65341	Karlstad	35		
+4:e Villagatan 4 lgh 1001	i0Tj-HKKKu	Emil	Hansson	Emil Per Mattias Hansson	19981219	Male	23	4:e Villagatan 4B		65341	Karlstad	70		
+4:e Villagatan 4 lgh 1001	VVhTZ____5	Jan-Erik	Kruse	Jan-Erik Kruse	19600114	Male	62	4:e Villagatan 4 lgh 1101	lgh	65341	Karlstad	60	+46703908000	
+4:e Villagatan 4 lgh 1001	xM_mHK6.p9	Kerstin Birgitta	Olsson	Kerstin Birgitta Olsson	19630719	Female	58	4:e Villagatan 4 lgh 1201	lgh	65341	Karlstad	44	+46702667228	
+4:e Villagatan 4 lgh 1101	xTP2XnOOOU	Ezio	Kancijanic	Ezio Kancijanic	19640223	Male	58	4:e Villagatan 4 lgh 1201	lgh	65341	Karlstad	44	+46705255547	
+4:e Villagatan 4 lgh 1101	0LTWCX4UU1	Bertil	Carlsson	Sven Bertil Carlsson	19480913	Male	74	4:e Villagatan 4 lgh 1001	lgh	65341	Karlstad	35		
+4:e Villagatan 4 lgh 1101	i0Tj-HKKKu	Emil	Hansson	Emil Per Mattias Hansson	19981219	Male	23	4:e Villagatan 4B		65341	Karlstad	70		
+4:e Villagatan 4 lgh 1101	VVhTZ____5	Jan-Erik	Kruse	Jan-Erik Kruse	19600114	Male	62	4:e Villagatan 4 lgh 1101	lgh	65341	Karlstad	60	+46703908000	
+4:e Villagatan 4 lgh 1101	xM_mHK6.p9	Kerstin Birgitta	Olsson	Kerstin Birgitta Olsson	19630719	Female	58	4:e Villagatan 4 lgh 1201	lgh	65341	Karlstad	44	+46702667228	
+4:e Villagatan 4 lgh 1201	xTP2XnOOOU	Ezio	Kancijanic	Ezio Kancijanic	19640223	Male	58	4:e Villagatan 4 lgh 1201	lgh	65341	Karlstad	44	+46705255547	
+4:e Villagatan 4 lgh 1201	0LTWCX4UU1	Bertil	Carlsson	Sven Bertil Carlsson	19480913	Male	74	4:e Villagatan 4 lgh 1001	lgh	65341	Karlstad	35		
+4:e Villagatan 4 lgh 1201	i0Tj-HKKKu	Emil	Hansson	Emil Per Mattias Hansson	19981219	Male	23	4:e Villagatan 4B		65341	Karlstad	70		
+4:e Villagatan 4 lgh 1201	VVhTZ____5	Jan-Erik	Kruse	Jan-Erik Kruse	19600114	Male	62	4:e Villagatan 4 lgh 1101	lgh	65341	Karlstad	60	+46703908000	
+4:e Villagatan 4 lgh 1201	xM_mHK6.p9	Kerstin Birgitta	Olsson	Kerstin Birgitta Olsson	19630719	Female	58	4:e Villagatan 4 lgh 1201	lgh	65341	Karlstad	44	+46702667228	
+4:e Villagatan 5 lgh 1001	LgPCwmmHGq	Leif	Forsberg	Leif Ola Forsberg	19690219	Male	52	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1001	~~MPs4vvvO	Sune	Lund	Sune Erik Ingemar Lund	19450614	Male	77	4:e Villagatan 5 lgh 1101	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1001	hLzxxWjjjs	Kerstin Margareta	Krausz	Kerstin Margareta Krausz	19460516	Female	75	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1001	~zzWPCnO1H	Peter Göran	Krausz	Peter Göran Krausz	19490719	Male	72	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92	+46702172833	
+4:e Villagatan 5 lgh 1001	iVLzMl2Z_C	Anette	Forsberg	Anette Kristina Olsson Forsberg	19661229	Female	55	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92	+46725607337	
+4:e Villagatan 5 lgh 1001	~gg2-4nO1H	Rolf Olov	Olsson	Rolf Olov Olsson	19490415	Male	72	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46705851119	
+4:e Villagatan 5 lgh 1001	xTPP_nbkJA	Barbro Gunilla Stigsdotter	Olsson	Barbro Gunilla Stigsdotter Hultengren Olsson	19510712	Female	71	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46735855633	
+4:e Villagatan 5 lgh 1002	LgPCwmmHGq	Leif	Forsberg	Leif Ola Forsberg	19690219	Male	52	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1002	~~MPs4vvvO	Sune	Lund	Sune Erik Ingemar Lund	19450614	Male	77	4:e Villagatan 5 lgh 1101	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1002	hLzxxWjjjs	Kerstin Margareta	Krausz	Kerstin Margareta Krausz	19460516	Female	75	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1002	~zzWPCnO1H	Peter Göran	Krausz	Peter Göran Krausz	19490719	Male	72	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92	+46702172833	
+4:e Villagatan 5 lgh 1002	iVLzMl2Z_C	Anette	Forsberg	Anette Kristina Olsson Forsberg	19661229	Female	55	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92	+46725607337	
+4:e Villagatan 5 lgh 1002	~gg2-4nO1H	Rolf Olov	Olsson	Rolf Olov Olsson	19490415	Male	72	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46705851119	
+4:e Villagatan 5 lgh 1002	xTPP_nbkJA	Barbro Gunilla Stigsdotter	Olsson	Barbro Gunilla Stigsdotter Hultengren Olsson	19510712	Female	71	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46735855633	
+4:e Villagatan 5 lgh 1101	LgPCwmmHGq	Leif	Forsberg	Leif Ola Forsberg	19690219	Male	52	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1101	~~MPs4vvvO	Sune	Lund	Sune Erik Ingemar Lund	19450614	Male	77	4:e Villagatan 5 lgh 1101	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1101	hLzxxWjjjs	Kerstin Margareta	Krausz	Kerstin Margareta Krausz	19460516	Female	75	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1101	~zzWPCnO1H	Peter Göran	Krausz	Peter Göran Krausz	19490719	Male	72	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92	+46702172833	
+4:e Villagatan 5 lgh 1101	iVLzMl2Z_C	Anette	Forsberg	Anette Kristina Olsson Forsberg	19661229	Female	55	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92	+46725607337	
+4:e Villagatan 5 lgh 1101	~gg2-4nO1H	Rolf Olov	Olsson	Rolf Olov Olsson	19490415	Male	72	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46705851119	
+4:e Villagatan 5 lgh 1101	xTPP_nbkJA	Barbro Gunilla Stigsdotter	Olsson	Barbro Gunilla Stigsdotter Hultengren Olsson	19510712	Female	71	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46735855633	
+4:e Villagatan 5 lgh 1102	LgPCwmmHGq	Leif	Forsberg	Leif Ola Forsberg	19690219	Male	52	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1102	~~MPs4vvvO	Sune	Lund	Sune Erik Ingemar Lund	19450614	Male	77	4:e Villagatan 5 lgh 1101	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1102	hLzxxWjjjs	Kerstin Margareta	Krausz	Kerstin Margareta Krausz	19460516	Female	75	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92		
+4:e Villagatan 5 lgh 1102	~zzWPCnO1H	Peter Göran	Krausz	Peter Göran Krausz	19490719	Male	72	4:e Villagatan 5 lgh 1001	lgh	65341	Karlstad	92	+46702172833	
+4:e Villagatan 5 lgh 1102	iVLzMl2Z_C	Anette	Forsberg	Anette Kristina Olsson Forsberg	19661229	Female	55	4:e Villagatan 5 lgh 1002	lgh	65341	Karlstad	92	+46725607337	
+4:e Villagatan 5 lgh 1102	~gg2-4nO1H	Rolf Olov	Olsson	Rolf Olov Olsson	19490415	Male	72	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46705851119	
+4:e Villagatan 5 lgh 1102	xTPP_nbkJA	Barbro Gunilla Stigsdotter	Olsson	Barbro Gunilla Stigsdotter Hultengren Olsson	19510712	Female	71	4:e Villagatan 5 lgh 1102	lgh	65341	Karlstad	92	+46735855633	
+4:e Villagatan 6 lgh 1101	izzMjXGGbk	Inger	Ahlén	Inger Helena Ahlén	19490215	Female	73	4:e Villagatan 6 lgh 1101	lgh	65341	Karlstad	73	+46736943664	
+4:e Villagatan 9 lgh 0901	~zTgj55554	Fredrik	Seeberg	Jan Fredrik Seeberg	19761126	Male	46	4:e Villagatan 9 lgh 1201	lgh	65341	Karlstad	70		
+4:e Villagatan 9 lgh 0901	~MZ5mk7ecE	Amanda	Byström	Amanda Lovisa Maria Byström	19950903	Female	26	4:e Villagatan 9 lgh 0901	lgh	65341	Karlstad		+46762083643	
+4:e Villagatan 9 lgh 0901	~gP5nOqkJA	Anders	Byström	Olof Anders Byström	19670406	Male	54	Västanåsvägen 21 lgh 1002	lgh	67232	Årjäng	49	+46761135696	
+4:e Villagatan 9 lgh 1201	~zTgj55554	Fredrik	Seeberg	Jan Fredrik Seeberg	19761126	Male	46	4:e Villagatan 9 lgh 1201	lgh	65341	Karlstad	70		
+4:e Villagatan 9 lgh 1201	~MZ5mk7ecE	Amanda	Byström	Amanda Lovisa Maria Byström	19950903	Female	26	4:e Villagatan 9 lgh 0901	lgh	65341	Karlstad		+46762083643	
+4:e Villagatan 9 lgh 1201	~gP5nOqkJA	Anders	Byström	Olof Anders Byström	19670406	Male	54	Västanåsvägen 21 lgh 1002	lgh	67232	Årjäng	49	+46761135696	
+5:e Villagatan 1 lgh 1201	cttbxeim	Robert	Nilsson	Sven Robert Lars Nilsson	19821120	Male	40	5:e Villagatan 1 lgh 1201	lgh	65341	Karlstad	80		
+5:e Villagatan 10 lgh 1001	zMjwXGbbbJ	Georgios	Kitsolampros	Georgios Kitsolampros	19690416	Male	52	5:e Villagatan 10 lgh 1101	lgh	65341	Karlstad	108		
+5:e Villagatan 10 lgh 1001	dTPC4GkJK7	Krister	Gustafsson	Krister Olof Gustafsson	19510602	Male	71	5:e Villagatan 10 lgh 1001	lgh	65341	Karlstad	108	+46702905054	
+5:e Villagatan 10 lgh 1001	~zSRj-XmnO	Henrietta	Huzell	Anna Henrietta Huzell	19670702	Female	55	5:e Villagatan 10 lgh 1101	lgh	65341	Karlstad	108	+46708850801	
+5:e Villagatan 10 lgh 1001	dWsCOoaQ6F	Yvonne	Skarin	Yvonne Ailsa Skarin	19550316	Female	66	5:e Villagatan 10 lgh 1001	lgh	65341	Karlstad	108		
+5:e Villagatan 10 lgh 1001	xSP_C5OO1H	Johanna	Wernius	Johanna Clara Tora Wernius		Female		5:e Villagatan 10 lgh 1201	lgh	65341	Karlstad	94	+46738042555	
+5:e Villagatan 10 lgh 1101	zMjwXGbbbJ	Georgios	Kitsolampros	Georgios Kitsolampros	19690416	Male	52	5:e Villagatan 10 lgh 1101	lgh	65341	Karlstad	108		
+5:e Villagatan 10 lgh 1101	dTPC4GkJK7	Krister	Gustafsson	Krister Olof Gustafsson	19510602	Male	71	5:e Villagatan 10 lgh 1001	lgh	65341	Karlstad	108	+46702905054	
+5:e Villagatan 10 lgh 1101	~zSRj-XmnO	Henrietta	Huzell	Anna Henrietta Huzell	19670702	Female	55	5:e Villagatan 10 lgh 1101	lgh	65341	Karlstad	108	+46708850801	
+5:e Villagatan 10 lgh 1101	dWsCOoaQ6F	Yvonne	Skarin	Yvonne Ailsa Skarin	19550316	Female	66	5:e Villagatan 10 lgh 1001	lgh	65341	Karlstad	108		
+5:e Villagatan 10 lgh 1101	xSP_C5OO1H	Johanna	Wernius	Johanna Clara Tora Wernius		Female		5:e Villagatan 10 lgh 1201	lgh	65341	Karlstad	94	+46738042555	
+5:e Villagatan 10 lgh 1201	zMjwXGbbbJ	Georgios	Kitsolampros	Georgios Kitsolampros	19690416	Male	52	5:e Villagatan 10 lgh 1101	lgh	65341	Karlstad	108		
+5:e Villagatan 10 lgh 1201	dTPC4GkJK7	Krister	Gustafsson	Krister Olof Gustafsson	19510602	Male	71	5:e Villagatan 10 lgh 1001	lgh	65341	Karlstad	108	+46702905054	
+5:e Villagatan 10 lgh 1201	~zSRj-XmnO	Henrietta	Huzell	Anna Henrietta Huzell	19670702	Female	55	5:e Villagatan 10 lgh 1101	lgh	65341	Karlstad	108	+46708850801	
+5:e Villagatan 10 lgh 1201	dWsCOoaQ6F	Yvonne	Skarin	Yvonne Ailsa Skarin	19550316	Female	66	5:e Villagatan 10 lgh 1001	lgh	65341	Karlstad	108		
+5:e Villagatan 10 lgh 1201	xSP_C5OO1H	Johanna	Wernius	Johanna Clara Tora Wernius		Female		5:e Villagatan 10 lgh 1201	lgh	65341	Karlstad	94	+46738042555	
+5:e Villagatan 11	~zMZC4vvvm	Lena	Simryd	Lena Marie Simryd	19510408	Female	70	5:e Villagatan 11		65341	Karlstad	170		
+5:e Villagatan 11	~zMZC4vvvn	Anders	Lindahl	Carl Anders Lindahl	19530415	Male	68	5:e Villagatan 11		65341	Karlstad	170	+46703134707	
+5:e Villagatan 12	h~dxTPjjZs	Fredrik	Dahlin	Bengt Fredrik Dahlin	19860321	Male	36	5:e Villagatan 12		65341	Karlstad			
+5:e Villagatan 12	0TlwnHGGGq	Bengt	Dahlin	Bengt-Olov Dahlin	19511105	Male	70	5:e Villagatan 12		65341	Karlstad		+46705613738	
+5:e Villagatan 12	hTMjZ5nGGq	Yvonne	Dahlin	Britt Yvonne Dahlin	19540924	Female	68	5:e Villagatan 12		65341	Karlstad		+46702358998	
+5:e Villagatan 12	~gPZ5XXXXm	Tord	Öqvist	Tord Ingvar Öqvist	19580310	Male	64	5:e Villagatan 12 lgh 1001	lgh	65341	Karlstad	74		
+5:e Villagatan 12	~TM24GkJK7	Ida	Åhlman	Ida Liv Mikaela Åhlman	19931107	Female	28	5:e Villagatan 12 lgh 1201	lgh	65341	Karlstad	74	+46709484666	
+5:e Villagatan 12 lgh 1001	h~dxTPjjZs	Fredrik	Dahlin	Bengt Fredrik Dahlin	19860321	Male	36	5:e Villagatan 12		65341	Karlstad			
+5:e Villagatan 12 lgh 1001	0TlwnHGGGq	Bengt	Dahlin	Bengt-Olov Dahlin	19511105	Male	70	5:e Villagatan 12		65341	Karlstad		+46705613738	
+5:e Villagatan 12 lgh 1001	hTMjZ5nGGq	Yvonne	Dahlin	Britt Yvonne Dahlin	19540924	Female	68	5:e Villagatan 12		65341	Karlstad		+46702358998	
+5:e Villagatan 12 lgh 1001	~gPZ5XXXXm	Tord	Öqvist	Tord Ingvar Öqvist	19580310	Male	64	5:e Villagatan 12 lgh 1001	lgh	65341	Karlstad	74		
+5:e Villagatan 12 lgh 1001	~TM24GkJK7	Ida	Åhlman	Ida Liv Mikaela Åhlman	19931107	Female	28	5:e Villagatan 12 lgh 1201	lgh	65341	Karlstad	74	+46709484666	
+5:e Villagatan 12 lgh 1201	h~dxTPjjZs	Fredrik	Dahlin	Bengt Fredrik Dahlin	19860321	Male	36	5:e Villagatan 12		65341	Karlstad			
+5:e Villagatan 12 lgh 1201	0TlwnHGGGq	Bengt	Dahlin	Bengt-Olov Dahlin	19511105	Male	70	5:e Villagatan 12		65341	Karlstad		+46705613738	
+5:e Villagatan 12 lgh 1201	hTMjZ5nGGq	Yvonne	Dahlin	Britt Yvonne Dahlin	19540924	Female	68	5:e Villagatan 12		65341	Karlstad		+46702358998	
+5:e Villagatan 12 lgh 1201	~gPZ5XXXXm	Tord	Öqvist	Tord Ingvar Öqvist	19580310	Male	64	5:e Villagatan 12 lgh 1001	lgh	65341	Karlstad	74		
+5:e Villagatan 12 lgh 1201	~TM24GkJK7	Ida	Åhlman	Ida Liv Mikaela Åhlman	19931107	Female	28	5:e Villagatan 12 lgh 1201	lgh	65341	Karlstad	74	+46709484666	
+5:e Villagatan 13	yy~W_-XXXv	Jan	Eriksson	Jan Åke Eriksson	19580923	Male	64	5:e Villagatan 13		65341	Karlstad	135		
+5:e Villagatan 13	yy~W_-XXX4	Ingela	Eriksson	Anne Eva Ingela Eriksson	19551228	Female	66	5:e Villagatan 13		65341	Karlstad	135	+46702141680	
+5:e Villagatan 14	zgjZ_w---v	Mikael	Hasselgren	Bo Fredrik Mikael Hasselgren	19640409	Male	58	5:e Villagatan 14		65341	Karlstad	179		
+5:e Villagatan 14	zdW2--OOOH	Gunilla	Hasselgren	Sigrid Gunilla Hasselgren	19620215	Female	59	5:e Villagatan 14		65341	Karlstad	179		
+5:e Villagatan 14	ixWlPC-4mn	Björn	Hasselgren	Björn Mikael Hasselgren	19970930	Male	24	5:e Villagatan 14		65341	Karlstad	179	+46722229699	
+5:e Villagatan 16	ihS2_55Xvn	Margareta	Peteri	Margareta Birgitta Peteri	19470823	Female	75	5:e Villagatan 16		65341	Karlstad	184	+46705434982	
+5:e Villagatan 16	ihS2_55Xvm	Kjell-Åke	Larsson	Ragnar Kjell-Åke Larsson	19400809	Male	81	5:e Villagatan 16		65341	Karlstad	184	+46705452025	
+5:e Villagatan 18	izMlCX444v	Mikael	Schultz	Nils Reinhold Mikael Schultz	19551118	Male	66	5:e Villagatan 18		65341	Karlstad	256	+46702433443	
+5:e Villagatan 18	zzlwUA7uEa	Charlotte	Schultz	Eva Jenny Charlotte Wäreborn Schultz	19600428	Female	61	5:e Villagatan 18		65341	Karlstad	256		
+5:e Villagatan 19	h~gjs-XXXv	Monika Maj-Britt Birgitta	Sandberg	Monika Maj-Britt Birgitta Sandberg	19430502	Female	79	5:e Villagatan 19		65341	Karlstad	160		
+5:e Villagatan 2	zxPs4v1Gbk	Pierre	Eklund	Pierre Christer Eklund	19710615	Male	50	5:e Villagatan 2		65341	Karlstad	250		
+5:e Villagatan 2	xW_vnGKKeu	Anna	Eklund	Anna Maria Birgitha Eklund	19790716	Female	42	5:e Villagatan 2		65341	Karlstad	250	+46706173487	
+5:e Villagatan 20	zxRZ5nOUHG	Jan Tomas	Börjeson	Jan Tomas Börjeson	19600507	Male	61	5:e Villagatan 20		65341	Karlstad	195		
+5:e Villagatan 21	xM_4G7a6Fr	Klas	Kvarnevik	Klas Erik Gustav Kvarnevik	19750420	Male	46	5:e Villagatan 21		65341	Karlstad			
+5:e Villagatan 22	hMss--nnOU	Mats	Nilsson	Mats Sven Inge Nilsson	19710408	Male	50	5:e Villagatan 22		65341	Karlstad	218	+46704969979	
+5:e Villagatan 22	LzgRZCnnn1	Andreas	Hällström	Andreas Henrik Jonas Hällström	19870902	Male	34	Hagagatan 1 lgh 1602	lgh	65220	Karlstad	43		
+5:e Villagatan 24	i0SR2XUqbk	Kalle	Grundberg	Kalle Marcus Grundberg	19790823	Male	43	5:e Villagatan 24		65341	Karlstad	109		
+5:e Villagatan 24	iVLgj2C5X4	Sofia	Ellwe	Helena Sofia Grundberg Ellwe	19810204	Female	40	5:e Villagatan 24		65341	Karlstad	109	+46735311817	
+5:e Villagatan 26 lgh 1101	zgggZ5mmnO	Lisa	Roos	Lisa Linnéa Gunvor Roos	19770626	Female	45	5:e Villagatan 26 lgh 1101	lgh	65341	Karlstad	92		
+5:e Villagatan 4	LxMjs_4GGq	Rolf	Olsson	Rolf Bertil Olsson	19690807	Male	52	5:e Villagatan 4		65341	Karlstad	152	+46703154879	
+5:e Villagatan 4	dSTlwmmmmU	Åsa	Olsson	Åsa Kristina Olsson	19740531	Female	47	5:e Villagatan 4		65341	Karlstad	152		
+5:e Villagatan 4	zdlPjwnnU1	Martin	Olsson	Olof Martin Olsson	19800421	Male	42	5:e Villagatan 4A		65341	Karlstad	105	+46706672029	
+5:e Villagatan 4	xgPZZ4mHHG	Sara	Johansson	Sara Karin Sofia Johansson	19800515	Female	41	5:e Villagatan 4A		65341	Karlstad	105	+46705576309	
+5:e Villagatan 5	y~MRl_vvnO	Linda	Englund	Linda Maria Englund	19750501	Female	47	5:e Villagatan 5		65341	Karlstad	160		
+5:e Villagatan 5	izzxP2-Xvm	Tobias	Fredriksson	Karl Daniel Tobias Fredriksson	19750404	Male	46	5:e Villagatan 5		65341	Karlstad	160	+46706427475	
+5:e Villagatan 6	hMsvm1JJK7	Malin	Örn	Malin Birgitta Örn	19810719	Female	40	5:e Villagatan 6		65341	Karlstad	159		
+5:e Villagatan 6	zTjj55mmOU	Per	Östergren	Per Olov Johan Östergren	19820403	Male	39	5:e Villagatan 6		65341	Karlstad	159	+46738019955	
+5:e Villagatan 7	hT2wvn1Gbk	Michael Andrew	Rowe	Michael Andrew Rowe	19500905	Male	71	5:e Villagatan 7		65341	Karlstad	180		
+5:e Villagatan 7	hT2wvn1Gbo	Antoinetta Pernilla Wilhelmina	Rowe	Antoinetta Pernilla Wilhelmina Rowe	19501017	Female	71	5:e Villagatan 7		65341	Karlstad	180	+46762566339	
+5:e Villagatan 8	ihMsvU111H	Peter	Axelsson	Lars Peter Axelsson	19640709	Male	58	5:e Villagatan 8		65341	Karlstad	120		
+5:e Villagatan 8	ihMsvU111G	Annika	Johansson	Annika Karin Maria Johansson	19670413	Female	55	5:e Villagatan 8		65341	Karlstad	120	+46705468438	
+6:e Villagatan 11	Vhdl2w555X	Gunilla	Larsson	Inger Gunilla Larsson	19510824	Female	71	6:e Villagatan 11		65341	Karlstad	153	+46705941789	
+6:e Villagatan 11	Vhdl2w555-	Kjell	Larsson	Kjell Thorsten Larsson	19480819	Male	73	6:e Villagatan 11		65341	Karlstad	153	+46705656916	
+6:e Villagatan 12 lgh 1101	yxl2Z5---X	Matti	Tremalm	Matti Kalevi Tremalm	19380925	Male	84	6:e Villagatan 12 lgh 1102	lgh	65341	Karlstad	64	+46704023653	
+6:e Villagatan 12 lgh 1102	yxl2Z5---X	Matti	Tremalm	Matti Kalevi Tremalm	19380925	Male	84	6:e Villagatan 12 lgh 1102	lgh	65341	Karlstad	64	+46704023653	
+6:e Villagatan 13	~gZXvO1ooJ	Åsa	Odéus	Åsa Marianne Odéus	19680123	Female	54	6:e Villagatan 13		65341	Karlstad	153	+46706874735	
+6:e Villagatan 16	xPPjs5-vmn	Andréas	Nilsson	Per Andréas Nilsson	19780523	Male	44	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16	ySl5OGKKeu	Elin	Nilsson	Elin Maria Nilsson	19820126	Female	39	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16	LW_-OOkAK7	Madeleine	Tufvasson	Eva Madeleine Tufvasson	19630316	Female	58	6:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	66	+46733560712	
+6:e Villagatan 16	hSlZ_----v	Eva	Eriksson	Eva Kristina Eriksson	19650114	Female	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46706921488	
+6:e Villagatan 16	xMZCC-mO1H	Per-Arne	Pettersson	Alf Per-Arne Pettersson	19641116	Male	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46705541052	
+6:e Villagatan 16 lgh 0901	xPPjs5-vmn	Andréas	Nilsson	Per Andréas Nilsson	19780523	Male	44	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 0901	ySl5OGKKeu	Elin	Nilsson	Elin Maria Nilsson	19820126	Female	39	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 0901	LW_-OOkAK7	Madeleine	Tufvasson	Eva Madeleine Tufvasson	19630316	Female	58	6:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	66	+46733560712	
+6:e Villagatan 16 lgh 0901	hSlZ_----v	Eva	Eriksson	Eva Kristina Eriksson	19650114	Female	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46706921488	
+6:e Villagatan 16 lgh 0901	xMZCC-mO1H	Per-Arne	Pettersson	Alf Per-Arne Pettersson	19641116	Male	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46705541052	
+6:e Villagatan 16 lgh 1001	xPPjs5-vmn	Andréas	Nilsson	Per Andréas Nilsson	19780523	Male	44	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 1001	ySl5OGKKeu	Elin	Nilsson	Elin Maria Nilsson	19820126	Female	39	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 1001	LW_-OOkAK7	Madeleine	Tufvasson	Eva Madeleine Tufvasson	19630316	Female	58	6:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	66	+46733560712	
+6:e Villagatan 16 lgh 1001	hSlZ_----v	Eva	Eriksson	Eva Kristina Eriksson	19650114	Female	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46706921488	
+6:e Villagatan 16 lgh 1001	xMZCC-mO1H	Per-Arne	Pettersson	Alf Per-Arne Pettersson	19641116	Male	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46705541052	
+6:e Villagatan 16 lgh 1101	xPPjs5-vmn	Andréas	Nilsson	Per Andréas Nilsson	19780523	Male	44	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 1101	ySl5OGKKeu	Elin	Nilsson	Elin Maria Nilsson	19820126	Female	39	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 1101	LW_-OOkAK7	Madeleine	Tufvasson	Eva Madeleine Tufvasson	19630316	Female	58	6:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	66	+46733560712	
+6:e Villagatan 16 lgh 1101	hSlZ_----v	Eva	Eriksson	Eva Kristina Eriksson	19650114	Female	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46706921488	
+6:e Villagatan 16 lgh 1101	xMZCC-mO1H	Per-Arne	Pettersson	Alf Per-Arne Pettersson	19641116	Male	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46705541052	
+6:e Villagatan 16 lgh 1102	xPPjs5-vmn	Andréas	Nilsson	Per Andréas Nilsson	19780523	Male	44	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 1102	ySl5OGKKeu	Elin	Nilsson	Elin Maria Nilsson	19820126	Female	39	6:e Villagatan 16 lgh 1001	lgh	65341	Karlstad	131		
+6:e Villagatan 16 lgh 1102	LW_-OOkAK7	Madeleine	Tufvasson	Eva Madeleine Tufvasson	19630316	Female	58	6:e Villagatan 16 lgh 1101	lgh	65341	Karlstad	66	+46733560712	
+6:e Villagatan 16 lgh 1102	hSlZ_----v	Eva	Eriksson	Eva Kristina Eriksson	19650114	Female	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46706921488	
+6:e Villagatan 16 lgh 1102	xMZCC-mO1H	Per-Arne	Pettersson	Alf Per-Arne Pettersson	19641116	Male	57	6:e Villagatan 16 lgh 1102	lgh	65341	Karlstad	66	+46705541052	
+6:e Villagatan 17	~gZXXXGGGk	Gustav	Hedenskog	Gustav Mikael Hedenskog	19990227	Male	22	6:e Villagatan 17		65341	Karlstad	153		
+6:e Villagatan 17	hgW_5n111G	Mikael	Hedenskog	Lars Mikael Hedenskog	19670118	Male	54	6:e Villagatan 17		65341	Karlstad	153		
+6:e Villagatan 17	hgW_5n111H	Erika	Hedenskog	Carin Erika Helena Hedenskog	19711001	Female	51	6:e Villagatan 17		65341	Karlstad	153	+46768030480	
+6:e Villagatan 18	Ldl2s55554	Mats	Hodén	Lars Mats Hodén	19650103	Male	56	6:e Villagatan 18		65341	Karlstad			
+6:e Villagatan 18	dgWlZ____5	Eva	Fällström	Eva-Lotta Fällström	19570915	Female	64	6:e Villagatan 18		65341	Karlstad			
+6:e Villagatan 18	i~TZCnHqko	Per	Hällqvist	Per Erik Bertil Hällqvist	19630114	Male	59	6:e Villagatan 18		65341	Karlstad			
+6:e Villagatan 19	yyLg25XXXm	Håkan	Eilard	Håkan Reinhold Eilard	19640927	Male	57	6:e Villagatan 19		65341	Karlstad	153		
+6:e Villagatan 2 lgh 1101	~g24GGboAK	Johannes	Byrö	Edvin Paul Johannes Byrö	19950607	Male	26	6:e Villagatan 2 lgh 1103	lgh	65341	Karlstad	41	+46722397180	
+6:e Villagatan 2 lgh 1101	hTM_mU111q	Emil	Wåhlin	Emil Olof Inge Wåhlin	19931024	Male	29	6:e Villagatan 2 lgh 1302	lgh	65341	Karlstad	33		
+6:e Villagatan 2 lgh 1103	~g24GGboAK	Johannes	Byrö	Edvin Paul Johannes Byrö	19950607	Male	26	6:e Villagatan 2 lgh 1103	lgh	65341	Karlstad	41	+46722397180	
+6:e Villagatan 2 lgh 1103	hTM_mU111q	Emil	Wåhlin	Emil Olof Inge Wåhlin	19931024	Male	29	6:e Villagatan 2 lgh 1302	lgh	65341	Karlstad	33		
+6:e Villagatan 2 lgh 1302	~g24GGboAK	Johannes	Byrö	Edvin Paul Johannes Byrö	19950607	Male	26	6:e Villagatan 2 lgh 1103	lgh	65341	Karlstad	41	+46722397180	
+6:e Villagatan 2 lgh 1302	hTM_mU111q	Emil	Wåhlin	Emil Olof Inge Wåhlin	19931024	Male	29	6:e Villagatan 2 lgh 1302	lgh	65341	Karlstad	33		
+6:e Villagatan 21	yhdgMl5554	Karina	Israelachvili	Karina Ingegerd Israelachvili	19460816	Female	75	6:e Villagatan 21		65341	Karlstad	153	+46706893638	
+6:e Villagatan 23	yhzxMlCC5-	Daniel	Wedberg	Jan Lennart Daniel Wedberg	19780915	Male	43	6:e Villagatan 23		65341	Karlstad	153	+46708363670	
+6:e Villagatan 23	LLSWP2XXvm	Anna	Wedberg	Anna Karin Elisabeth Björkenstam Wedberg	19801015	Female	41	6:e Villagatan 23		65341	Karlstad	153	+46703152143	
+6:e Villagatan 25	hMWZC4vvvn	Margareta Elisabet	Åsberg	Margareta Elisabet Åsberg	19330327	Female	89	6:e Villagatan 25		65341	Karlstad	153	+46704824925	
+6:e Villagatan 25	hMWZC4vvvm	Sven Olov	Åsberg	Sven Olov Åsberg	19381013	Male	84	6:e Villagatan 25		65341	Karlstad	153	+46730627876	
+6:e Villagatan 27	~WRsXnnO1H	Thomas	Emmesjö	Thomas Lars Erik Emmesjö	19620516	Male	59	6:e Villagatan 27		65341	Karlstad	153		
+6:e Villagatan 27	knuuxeapq	Helena	Emmesjö	Helena Ingrid Louise Emmesjö	19810918	Female	40	6:e Villagatan 27		65341	Karlstad	153		
+6:e Villagatan 29	y~TT2ZXXvm	Michaela	Bissman	Johanna Michaela Bissman	19890912	Female	33	6:e Villagatan 29		65341	Karlstad	153	+46707338334	
+6:e Villagatan 29	y~~xMRCCC-	Daniel	Söderwall	Lars Daniel Söderwall	19860402	Male	35	6:e Villagatan 29		65341	Karlstad	153	+46708596886	
+6:e Villagatan 3 lgh 1002	hMW22wvmOU	Karin Margareta	Danielsson	Karin Margareta Danielsson	19620521	Female	60	6:e Villagatan 3 lgh 1102	lgh	65341	Karlstad	67	+46705159117	
+6:e Villagatan 3 lgh 1002	dP-nGGooAK	Björn Knut	Franzén	Björn Knut Franzén	19471125	Male	75	6:e Villagatan 3 lgh 1002	lgh	65341	Karlstad	36		
+6:e Villagatan 3 lgh 1102	hMW22wvmOU	Karin Margareta	Danielsson	Karin Margareta Danielsson	19620521	Female	60	6:e Villagatan 3 lgh 1102	lgh	65341	Karlstad	67	+46705159117	
+6:e Villagatan 3 lgh 1102	dP-nGGooAK	Björn Knut	Franzén	Björn Knut Franzén	19471125	Male	75	6:e Villagatan 3 lgh 1002	lgh	65341	Karlstad	36		
+6:e Villagatan 4	yzTP5vmmmn	Stefan	Söderlund	Ulf Stefan Söderlund	19550411	Male	67	6:e Villagatan 4		65341	Karlstad	200	+46700604137	
+6:e Villagatan 4	VgR_C55554	Terese	Söderlund	Terese Eva Elisabeth Söderlund	19560826	Female	66	6:e Villagatan 4		65341	Karlstad	200		
+6:e Villagatan 6	xP-4UkA7uc	Björn	Resare	Björn Arnold Resare	19450416	Male	76	6:e Villagatan 6		65341	Karlstad	164		
+6:e Villagatan 6	VTZvnnGboJ	Anne-Sophie	Resare	Anne-Sophie Maria Mellvik Resare	19521218	Female	69	6:e Villagatan 6		65341	Karlstad	164	+46707270995	
+6:e Villagatan 7	VgjwOGqqqb	Margareta	Willbergh	Eva Margareta Willbergh	19560515	Female	65	6:e Villagatan 7		65341	Karlstad	153	+46730808862	
+6:e Villagatan 7	LL~MlCnnU1	Stefan	Ludvigsson	Stefan Harry Ingvar Ludvigsson	19550730	Male	66	6:e Villagatan 7		65341	Karlstad	153		
+6:e Villagatan 8	dP2ZZ-XXX4	Lars	Lindeberg	Lars Björn Lindeberg	19721129	Male	49	6:e Villagatan 8		65341	Karlstad	180	+46705432991	
+6:e Villagatan 8	dP2ZZ-XXXv	Maria	Lindeberg	Elsa Maria Elisabeth Lindeberg	19680326	Female	54	6:e Villagatan 8		65341	Karlstad	180	+46705261368	
+6:e Villagatan 9	0LSTZwvGGq	Bernhard	Eriksson	Bernhard Emanuel Eriksson	19790810	Male	43	6:e Villagatan 9		65341	Karlstad	153		
+6:e Villagatan 9	ySMWPCOqqb	Maria	Eriksson	Karin Maria Eriksson	19780424	Female	44	6:e Villagatan 9		65341	Karlstad	153	+46705106655	
+Å	dRwO1GoooJ	Gunvor Elisabet	Turesson	Gunvor Elisabet Turesson	19290404	Female	92	Åvägen 48		43851	Rävlanda	82		
+Å	zdMW22C5Xv	Nils Bertil Collas	Gille	Nils Bertil Collas Gille	19290603	Male	93	Ågatan 24 lgh 1103	lgh	57331	Tranås			
+Å	yxR24OkoAK	Marianne	Sehlstedt	Ingrid Marianne Sehlstedt	19290625	Female	93	Ågatan 25B lgh 1001	lgh	61434	Söderköping	88	+46735032628	
+Å	xMMZ55vvvm	Elsa Margarete Louise	Franzén	Elsa Margarete Louise Franzén	19290731	Female	92	Ågatan 24 lgh 1109	lgh	57331	Tranås			
+Å	VVVTMWR__C	Märta	Claeson	Märta Astrid Linnéa Claeson	19290914	Female	93	Ågatan 11A lgh 1102	lgh	57331	Tranås	62		
+Å	zTgPPjsss_	Ingrid	Nordstedt	Ingrid Linnea Nordstedt	19291112	Female	93	Ågatan 42B lgh 1001	lgh	29534	Bromölla	65	+46708301310	
+Å	zMjsXXU11H	Inge Ture Johannes	Truedsson	Inge Ture Johannes Truedsson	19291207	Male	92	Ågatan 5A		28833	Vinslöv	58		
+Å	0VL~W2sss_	Anna Ingegerd	Söderström	Anna Ingegerd Söderström	19300216	Female	91	Ågatan 6B lgh 1102	lgh	81430	Skutskär	78	+46706191832	
+Å	~TWlZZsvmn	Evert	Mo	Torsten Evert Mo	19300318	Male	91	Östra Ågatan 39 lgh 1102	lgh	75322	Uppsala	68	+46702486425	
+Å	iidR_XmmOU	Ingrid Elvira	Johansson	Ingrid Elvira Johansson	19300414	Female	92	Åvägen Kaprifolgården 12		47332	Henån		+4630430189	
+Å	LTRPs-XXXm	Karl	Vikström	Karl Stig Bertil Vikström	19300602	Male	92	Ågatan 4C		28833	Vinslöv	52		
+Å	zRwXnnHHHG	Hans Erik Ebbe	Hellström	Hans Erik Ebbe Hellström	19300825	Male	92	Norra Ågatan 14		57533	Eksjö	125		
+Å	izdMP_CCC-	Inga Mary	Johnsson	Inga Mary Johnsson	19300915	Female	92	Ågatan 2D		28833	Vinslöv	52		
+Å	hLS2s555X4	Karin Viktoria	Gjälby	Karin Viktoria Gjälby	19301025	Female	92	Ågatan 11 lgh 1301	lgh	17262	Sundbyberg	99	+46702794943	
+Å	zlswXmmmmn	Rolf Assar Ingemar	Larsson	Rolf Assar Ingemar Larsson	19310113	Male	91	Ågatan 11		46731	Grästorp	114	+46730947366	
+Å	zRRPwO111H	Harriet Maria	Lindvall	Harriet Maria Lindvall	19310120	Female	90	Norra Ågatan 2B lgh 1002	lgh	93251	Bureå	64		
+Å	VSSgggWWWR	Siv Alexandra	Dirman	Siv Alexandra Dirman	19310201	Female	91	Östra Ågatan 57 lgh 1402	lgh	75322	Uppsala	133		
+Å	0Tj5OHqqqb	Stig	Löfgren	Stig Elov Ingemar Löfgren	19310203	Male	91	Nya Ågatan 3		77732	Smedjebacken	166		
+Å	i0zl5mGkoJ	Tage Sten-Olof	Nylén	Tage Sten-Olof Nylén	19310322	Male	91	Ågatan 16 lgh 1201	lgh	17262	Sundbyberg	94	+46702098649	
+Å	Vgs4UUHHqb	Birgit	Braun	Birgit Viola Ingeborg Braun	19310429	Female	90	Ågatan 10		31331	Oskarström	70	+46723264077	
+Å	xRCvvnGGbk	Eivor	Westerberg	Ruth Eivor Alice Westerberg	19310429	Female	90	Ågatan 6		71330	Nora	75		
+Å	zglZs-nnU1	Ingegärd	Nyström	Verna Ingegärd Nyström	19310601	Female	91	Ågatan 5B lgh 1303	lgh	57275	Figeholm	78	+46706209497	
+Å	yy~MssCCC-	Ann-Britt	Andersson	Ann-Britt Viola Andersson	19310609	Female	90	Åvägen 12 lgh 1109	lgh	47332	Henån	29		
+Å	xls5-mkoAK	Yngve	Karlsson	Bengt Yngve Gerhard Karlsson	19310617	Male	90	Ågatan 42A lgh 1001	lgh	29534	Bromölla	65	+46760325547	
+Å	0TWR_X4mOU	Karin Ingeborg	Hed	Karin Ingeborg Hed	19310901	Female	91	Ågatan 24 lgh 1202	lgh	17262	Sundbyberg	75	+46739974165	
+Å 102	yyyhLxMMMW	Ann	Christensen	Ann Carina Christensen	19610208	Female	60	Å 102		44495	Ödsmål	44	+46706210648	
+Å 102	izTgs_XvnO	Stefan	Hägglund	Stefan Emil Hägglund	19851112	Male	37	Å 102		89395	Sidensjö	156		
+Å 102	dM25nHJA7e	Linus	Bergström	Mats Linus Bergström	19900123	Male	32	Å 102		87293	Lunde	201	+46767821822	
+Å 102	hSW_4nOOOH	Nathalie	Forsman	Nathalie Elisabet Cristin Forsman	19930705	Female	28	Å 102		87293	Lunde	201	+46761369427	
+Å 102	xSM2C-444n	Ednalyn	Laitila	Ednalyn Bauso Laitila	19790327	Female	42	Å 102		52394	Tvärred	116	+46731819938	
+Å 103	Lzgj5nnnn1	Anna	Karlsson	Anna Karlsson	19740227	Female	47	Å 103		44495	Ödsmål	110	+46735079560	
+Å 103	hS24vvOOOH	Wiking	Karlsson	Lennart Wiking Karlsson	19790828	Male	42	Å 103		44495	Ödsmål	110		
+Å 105	y~zgP55Xvm	Lillemor	Sjöberg	Anna Marie Lillemor Sjöberg	19550820	Female	66	Å 105		89395	Sidensjö	120	+46738370713	
+Å 105	iLzM_nkkkA	Dennis	Eksell	Dennis Frans Eksell	19990118	Male	22	Å 105		52394	Tvärred	120	+46761156045	
+Å 106	dP5Xmqkkko	Arne Christian	Hedberg	Arne Christian Hedberg	19460817	Male	75	Å 106		87293	Lunde	240		
+Å 106	dP5XmqkkkJ	Anne-Marie	Nilsson	Anne-Marie Nilsson	19441125	Female	78	Å 106		87293	Lunde	240		
+Å 110	iydWj_m11H	Marie	Vesterlund	Britt Marie Vesterlund	19601103	Female	61	Å 110		89395	Sidensjö	170	+46706295434	
+Å 110	zdPPPwwwwX	Daniel	Johannesson	Jon Peder Daniel Johannesson	19741211	Male	48	Å 110		52394	Tvärred	100		
+Å 110	dl2wmnoK7e	Christina	Lindström	Christina Eva Linnéa Lindström	19760408	Female	45	Å 110		52394	Tvärred	100		
+Å 110	kppssuuyz	Jens Patrick	Trimmel	Jens Patrick Trimmel		Male		Å 110		52394	Tvärred		+46735948542	
+Å 110	fhhcqviij	Patrick	Trimmel	Patrick Trimmel		Male		Å 110		52394	Tvärred		+46703380247	
+Å 110	iLT2_vnnnO	Gösta	Vesterlund	Kurt Gösta Vesterlund	19581210	Male	64	Å 110		89395	Sidensjö	170		
+Å 110	npyinosx	Patrick R	Industririvni	Patrick R Bygg Industririvni		Male		Å 110		52394	Tvärred		+46735058786	
+Å 112	0~~gZ_Cw-X	Daniel	Gilberg	Tord Daniel Gilberg	19910721	Male	31	Å 112		89395	Sidensjö	114	+46704850553	
+Å 112	iy~dRsXXvn	Johan	Strandberg	Karl Johan Strandberg	19660325	Male	56	Å 112		45994	Ljungskile	149		
+Å 112	iy~dRsXXvm	Monica	Strandberg	Monica Linda Laigar Strandberg	19660717	Female	55	Å 112		45994	Ljungskile	149	+46705985803	
+Å 112	hMljZXnO1H	Evelina	Gilberg	Anna Evelina Gilberg	19880828	Female	33	Å 112		89395	Sidensjö	114	+46738476431	
+Å 113	V~~gRj_C5-	Elin	Karlsson	Elin Karin Teresia Karlsson	19950415	Female	26	Å 113		45994	Ljungskile	34	+46709955839	
+Å 115	zzTZZssss_	Patrik	Pettersson	Patrik Erik Mattias Pettersson	19721102	Male	50	Å 115		52394	Tvärred	80		
+Å 115	VT2wvqqqqo	Cecilia	Haag	Cecilia Marianne Haag	19791103	Female	42	Å 115		52394	Tvärred	80		
+Å 117	~zWR_vbooJ	Anders	Nordlander	Lars Anders Nordlander	19580205	Male	63	Å 117		89395	Sidensjö	40	+46702068032	
+Å 121	~zdddWlllP	Martin	Åslin	Martin Ingemar Åslin	19490923	Male	73	Norr Om Å 121		82961	Gnarp		+46703950949	
+Å 121	0TTl_nH77e	Karin	Nordin	Karin Elisabet Nordin	19480516	Female	73	Å 121		89395	Sidensjö	140	+46730772730	
+Å 121	~zdddWlllj	Britt	Åslin	Britt Ingegerd Åslin	19421117	Female	79	Norr Om Å 121		82961	Gnarp		+46730540192	
+Å 121	~Tljj_w-X4	Bertil	Nordin	Stig Bertil Nordin	19470525	Male	75	Å 121		89395	Sidensjö	140	+46703154550	
+Å 132	zxTM2Z___5	Per Arne	Byström	Per Arne Byström	19540527	Male	67	Å 132		89395	Sidensjö	131		
+Å 132	i00hSTRj2Z	Karin	Sundin	Karin Margareta Sundin	19530325	Female	69	Å 132		89395	Sidensjö	131	+46702765574	
+Å 133	zW25v1KKeu	Myrsini	Lemonaki	Myrsini Lemonaki	19850314	Female	36	Å 133		45994	Ljungskile	156		
+Å 133	inpuxjop	Ioannis	Syrikas	Ioannis Syrikas	19840422	Male	38	Å 133		45994	Ljungskile	156	+46739226587	
+Å 135	xM2Xmqkkko	Ingvar	Byström	Ingvar Helmer Byström	19320225	Male	90	Å 135		89395	Sidensjö	99	+46703468670	
+Å 135	iLgjjZ4vnO	Jimmy	Karhall	Jimmy Ulf Christian Karhall	19710726	Male	51	Å 135		45994	Ljungskile	230		
+Å 135	VxS24GoccE	Britt-Inger	Söderlind	Britt-Inger Söderlind	19480815	Female	74	Å 135		89395	Sidensjö	99	+46702355153	
+Å 135	xjZC5O111q	Annika	Karhall	Annika Elisabeth Karhall	19791205	Female	42	Å 135		45994	Ljungskile	230	+46704828524	
+Å 137	xljZXmU1Gq	Lisa Marie Margareta	Seijsing	Lisa Marie Margareta Seijsing	19881031	Female	33	Å 137		89395	Sidensjö	84	+46767748287	
+Å 137	~xglss--4v	Mikael	Seijsing	Mikael Hans Seijsing	19880311	Male	34	Å 137		89395	Sidensjö	84	+46722226789	
+Å 140	yVhSSP222Z	Anette	Moberg	Eva Anette Moberg	19661202	Female	56	Å 140		89395	Sidensjö	172	+46730583696	
+Å 140	yVhSSP222s	Lars	Pettersson	Lars Johan Harry Pettersson	19640526	Male	58	Å 140		89395	Sidensjö	172	+46702364023	
+Å 141	hxxMs5Oqqb	Roger	Bolander	Rolf Roger Bolander	19790226	Male	42	Norr Om Å 141		82961	Gnarp		+46730325140	
+Å 141	0~SMZssss_	Eva	Zakariasson	Eva Susann Zakariasson	19610719	Female	60	Å 141		45994	Ljungskile	93	+46704411232	
+Å 141	VLWs4O111q	Fredrik	Zakariasson	Fredrik Rickard Zakariasson	19911026	Male	30	Å 141		45994	Ljungskile	93	+46707105898	
+Å 141	hdgR_CCCCw	Richard	Isaksson	Stern Richard Isaksson	19640502	Male	58	Å 141		45994	Ljungskile	93	+46707939417	
+Å 141	zdRP2X1HGq	Åsa	Bolander	Åsa Marie Bolander	19740704	Female	47	Norr Om Å 141		82961	Gnarp		+46706942406	
+Å 143	zzRlssCC5-	Krister	Johansson	Anders Krister Johansson	19540528	Male	67	Å 143		45994	Ljungskile	156		
+Å 143	hMPZ_wwwwX	Eira	Johansson	Eira Kyllikki Johansson	19561205	Female	65	Å 143		45994	Ljungskile	156		
+Å 147	V~xSjj--4v	Micaela	Björk	Marie Therese Micaela Björk	19891123	Female	33	Å 147		89395	Sidensjö	120		
+Å 147	hkovzlmrs	Ellen	Wikström	Ellen Andrea Elisabeth Wikström	20040419	Female	17	Å 147		45994	Ljungskile	96		
+Å 147	dTl2w55-4v	Anna	Wikström	Anna Elisabeth Wikström	19741202	Female	48	Å 147		45994	Ljungskile	96	+46760171616	
+Å 147	0zxSMj___C	David	Wikström	Lars David Bertil Wikström	19740614	Male	48	Å 147		45994	Ljungskile	96		
+Å 147	zWPZZZ-Xvm	Erik Thomas	Tjernström	Erik Thomas Tjernström	19870118	Male	34	Å 147		89395	Sidensjö	120		
+Å 149	V~MswnUUU1	Emil	Näsman	Erik Emil Näsman	19261116	Male	95	Å 149		89395	Sidensjö	70	+46738124974	
+Å 151	VhhM2ZZZZs	Vally Edit Birgitta	Strandberg	Vally Edit Birgitta Strandberg	19400911	Female	82	Å 151		45994	Ljungskile	130	+46709500960	
+Å 151	0VxMWRlll2	Hanna	Duvhök	Hanna Sofia Lina Mörting Duvhök	19870518	Female	34	Å 151		45994	Ljungskile	130		
+Å 152	VhSM2s___5	Magnus	Jansson	Per Magnus Jansson	19910624	Male	31	Å 152		89395	Sidensjö	129		
+Å 201	hdlC4qeeeE	Märta	Axelsson	Märta Rut Emelie Hasselgren Axelsson	19980828	Female	23	Å 201		44495	Ödsmål	90		
+Å 202	LzSM2ss_w5	Henrik	Carlsson	John Anders Henrik Carlsson	19890214	Male	32	Å 202		44495	Ödsmål	166		
+Å 202	zzzxj55-4v	Johanna	Larsson	Johanna Cecilia Larsson	19920317	Female	29	Å 202		44495	Ödsmål	166		
+Å 203	hhzzl2sssw	Jimmy	Lönnrot	Sven Jimmy Niklas Lönnrot	19830823	Male	39	Å 203		44495	Ödsmål	167	+46702479989	
+Å 204	xW_5XUAA7e	Benny	Axelsson	Anders Benny Axelsson	19611226	Male	61	Å 204		44495	Ödsmål	104	+46701759313	
+Å 204	hMZXGGqkJA	David	Axelsson	David Axelsson	19940524	Male	28	Å 204		44495	Ödsmål	104	+46725007786	
+Å 210	dlj2_mU1Gb	Urban	Andreasson	Urban Nils Åke Andreasson	19630206	Male	58	Å 210		44495	Ödsmål	51	+46702011700	
+Å 210	dlj2_mU1Gq	Annika	Hagström	Siv Annika Hagström	19600311	Female	62	Å 210		44495	Ödsmål	51		
+Å 211	ydgWWRPPPZ	Eivor Harriet	Granstedt	Eivor Harriet Granstedt	19391002	Female	83	Å 211		44495	Ödsmål	110		
+Å 211	dPC5-m111H	Nils Lennart	Granstedt	Nils Lennart Granstedt	19371003	Male	85	Å 211		44495	Ödsmål	110		
+Å 212	i0zMP2CCCw	Ulrika	Larsson	Anna Ulrika Larsson	19681027	Female	53	Å 212		44495	Ödsmål	160	+46703728019	
+Å 212	yzlP_COOOH	Fanny	Larsson	Fanny Ulrika Larsson	20000704	Female	21	Å 212		44495	Ödsmål	160		
+Å 212	i0zMP2CCC5	Tommy	Larsson	Tommy Hans-Olof Larsson	19711002	Male	51	Å 212		44495	Ödsmål	160		
+Å 260	VhLSgWWWWl	Lars Magnus	Körner	Lars Magnus Körner	19440307	Male	77	Å 260		45994	Ljungskile	172	+46707800545	
+Å 260	VhLSgWWWWR	Ulla Marianne	Körner	Ulla Marianne Körner	19440916	Female	77	Å 260		45994	Ljungskile	172		
+Å 301	xWj-U1HGbk	Ante	Larsson	Andreas Ante Larsson	19880825	Male	34	Å 301		44495	Ödsmål	74		
+Å 301	nttxikr	Charlotte	Larsson	Charlotte Zarah Linnea Larsson	19880529	Female	33	Å 301		44495	Ödsmål	74		
+Å 302	VdxSW2_w-X	Christine	Ottosson	Maria Christine Ottosson	19941108	Female	28	Å 302		45994	Ljungskile	69	+46739656451	
+Å 302	lnsbioux	Vahid	Hassani	Vahid Hassani	20010927	Male	20	Å 302		44495	Ödsmål	96		
+Å 302	dxR2ZCCCC-	Gunnel	Alexandersson	Gunnel Irene Alexandersson	19600929	Female	61	Å 302		44495	Ödsmål	96		
+Å 302	aguhagbd	Reza	Rezayi	Reza Rezayi	19981029	Male	23	Å 302		44495	Ödsmål	96		
+Å 302	0hdgRjj2s_	Martin Nick	Alexandersson	Karl Martin Nick Alexandersson	19880516	Male	33	Å 302		44495	Ödsmål	96		
+Å 302	VTW_--11Gq	Stefan	Ögren	Stefan Emanuel Ögren	19851125	Male	37	Å 302		89395	Sidensjö	104	+46768051927	
+Å 302	0zgM_mmGGq	Maria	Emanuelsson	Inga Maria Emanuelsson	19710507	Female	50	Å 302		45994	Ljungskile	69	+46703657754	
+Å 302	yVdxMP_C5-	Ida	Ögren	Ida Therése Ögren	19850222	Female	37	Å 302		89395	Sidensjö	104	+46708502180	
+Å 303	dlwm1GoooA	Jenny Margareta	Karsberg	Jenny Margareta Karsberg	19720527	Female	49	Å 303		44495	Ödsmål	159		
+Å 303	dlwm1GoooJ	Johan	Karsberg	Helge Johan Karsberg	19700623	Male	52	Å 303		44495	Ödsmål	159		
+Å 303	hgudeaqbx	Gustaf	Karsberg	Gustaf Thord Karsberg	20011120	Male	21	Å 303		44495	Ödsmål	159		
+Å 303	mrbdlrb	Saga	Karsberg	Saga Lisbeth Margareta Karsberg	20040224	Female	18	Å 303		44495	Ödsmål	159		
+Å 304	0~xWWsvmOU	Magnus	Kristensson	Magnus Johan Kristensson	19900217	Male	31	Å 304		44495	Ödsmål	40		
+Å 304	~MjCwXnO1H	Linda	Jarl	Linda Ellinor Jarl	19940416	Female	27	Å 304		44495	Ödsmål	40		
+Å 309	0SWR2-444v	Gunilla	Sellstedt	Eva Gunilla Sellstedt	19650529	Female	56	Å 309		89395	Sidensjö	148		
+Å 309	0SWR2-444m	Ulf	Sellstedt	Ulf Bertil Sellstedt	19650208	Male	56	Å 309		89395	Sidensjö	148	+46702997937	
+Å 311	ijgggqrvb	Julia	Forsgren	Julia Sofia Forsgren	20040512	Female	18	Å 311		89395	Sidensjö	114		
+Å 311	ihxPwUkoAK	Åsa	Söderström	Åsa Maria Söderström	19681205	Female	53	Å 311		89395	Sidensjö	114	+46703295613	
+Å 315	~MZ4nboooA	Christin	Höglund	Ulla Anette Christin Höglund	19560826	Female	66	Å 315		89395	Sidensjö	135	+46705112597	
+Å 315	~MZ4nboooJ	John	Höglund	John Haldo Höglund	19510408	Male	70	Å 315		89395	Sidensjö	135		
+Å 316	xWW2___w-4	Mona	Nilsson Mård	Mona Siri Elisabet Nilsson Mård	19670131	Female	54	Å 316		89395	Sidensjö	124	+46703675309	
+Å 316	iiagvzakl	Evelina	Mård	Ebba Amalia Evelina Mård	20040306	Female	17	Å 316		89395	Sidensjö	124		
+Å 316	xWW2___w-X	Magnus	Nilsson	Erik Magnus Nilsson	19660616	Male	55	Å 316		89395	Sidensjö	124	+46702195813	
+Å 320	VLT2_vnnnO	Tord Uno	Nilsson	Tord Uno Nilsson	19390804	Male	82	Å 320		89395	Sidensjö	97	+46702056217	
+Å 320	VLT2_vnnnU	Gurli Mari-Anne	Nilsson	Gurli Mari-Anne Nilsson	19401109	Female	81	Å 320		89395	Sidensjö	97	+46705864328	
+Å 325	yVLTWj_w-X	Jenny	Nilsson	Jenny Margareta Christina Nilsson	19840324	Female	38	Å 325		89395	Sidensjö	57		
+Å 326	i~~gZvnUHG	Eivor	Holmér	Frida Eivor Holmér	19670422	Female	55	Å 326		89395	Sidensjö	85	+46703382178	
+Å 327	zMswwUJeeu	Barbro	Vestin	Barbro Margareta Vestin	19520918	Female	69	Å 327		89395	Sidensjö	102	+46702262197	
+Å 328	h~Wlw5OU1H	Monika	Näsman	Britt Monika Näsman	19520612	Female	70	Å 328		89395	Sidensjö	82	+46702542543	
+Å 328	iVSjs4mmmn	Sven Erik	Näsman	Sven Erik Stanley Näsman	19490526	Male	73	Å 328		89395	Sidensjö	82		
+Å 329	dMZXmGkJK7	Lennart	Lundgren	Nils Lennart Lundgren	19450725	Male	77	Å 329		89395	Sidensjö	144	+46705281633	
+Å 332	LgM2_nkJAK	Susanna	Gjersvold	Britt Susanna Gjersvold		Female		Å 332		89395	Sidensjö	148	+46707370879	
+Å 332	LgM2_nkJA7	Robert	Gjersvold	Ulf Robert Gjersvold	19761027	Male	45	Å 332		89395	Sidensjö	148	+46703664656	
+Å 332	yxTjZwvmOU	Elin	Gjersvold	Elin Marianne Gjersvold	20020224	Female	20	Å 332		89395	Sidensjö	148		
+Å 406	xlZ---4vnO	Thomas	Gertz	Thomas Gertz	19600608	Male	61	Å 406		82694	Norrala	70		
+Å 406	~~ggMZ___5	Ulrike Elisabeth Erni	Wagner	Ulrike Elisabeth Erni Wagner	19540930	Female	67	Å 406		82694	Norrala	70		
+Å 414	dPjC5XmnU1	Gertrud Margareta	Grundahl	Gertrud Margareta Grundahl	19540422	Female	68	Å 414		82694	Norrala	128	+46706939558	
+Å 414	ySSWjC444n	Per Ivan	Larsson	Per Ivan Larsson	19560728	Male	65	Å 414		82694	Norrala	128	+46702952298	
+Å 418	00SW_Xvvvm	Göran	Larsson	Lars Göran Larsson	19470922	Male	75	Å 418		82694	Norrala	93	+46725642500	
+Å 418	yzdMRRRRRj	Anna-Maj	Larsson	Anna-Maj Ingegerd Larsson	19480222	Female	74	Å 418		82694	Norrala	93	+46730982261	
+Å 422	~zzdSTTTTW	Ulla Ingela	Wahlman	Ulla Ingela Wahlman	19520617	Female	69	Å 422		82694	Norrala	137		
+Å 422	dxRRZvGqko	Kjell Ove	Wahlman	Kjell Ove Wahlman	19500227	Male	71	Å 422		82694	Norrala	137	+46701180436	
+Å 430	izWWWZ5vvm	Ulf	Larsson	Ulf Erik Larsson	19590106	Male	62	Å 430		82694	Norrala	152	+46703926967	
+Å 430	V~TjXUJAK7	Carina	Larsson	Carina Maria Larsson	19590802	Female	63	Å 430		82694	Norrala	152	+46738123062	
+Å 438	VzMR25XvnO	Magnus	Larsson	Per Magnus Larsson	19721223	Male	50	Å 438		82694	Norrala	145		
+Å 438	0dTM_Cwmmn	Ann-Christine	Mårtensson	Märta Ann-Christine Mårtensson		Female		Å 438		82694	Norrala	145	+46703624478	
+Å 446	~dM_5mOOOU	Ann	Stewing	Britt Ann-Marie Christina Stewing	19490327	Female	72	Å 446		82694	Norrala	115	+46730338420	
+Å 446	dWR22wnGqb	Bengt Torbjörn	Svedin	Bengt Torbjörn Svedin	19571211	Male	65	Å 446		82694	Norrala	115	+46768355671	
+Å 456	dSgRs-444n	Fredrik	Béwe	Georg Bertel Fredrik Béwe	19571228	Male	64	Å 456		45994	Ljungskile	75	+46707317581	
+Å 458	~g2CnGbbbo	Ann	Forsström	Ann Katrin Forsström	19640227	Female	57	Å 458		82694	Norrala	67	+46703861041	
+Å 458	~g2CnGbbbk	Nils	Svensson	Nils-Ove Svensson	19340423	Male	88	Å 458		82694	Norrala	67	+46703861114	
+Å 480	LS22Cw4mOU	Joanna	Gunnarson	Joanna Evelina Elisabeth Gunnarson	19840813	Female	38	Å 480		82694	Norrala	86	+46706405024	
+Å 480	yyzM2XnnU1	Henrik	Gunnarson	Lars Henrik Gunnarson	19811228	Male	40	Å 480		82694	Norrala	86		
+Å 490	dlP22_mmOU	Isabelle	Källman	Isabelle Anna Källman	19910710	Female	31	Å 490		82694	Norrala	120		
+Å 490	yVxxP-XXvm	Emil	Bergman	Johan Emil Bergman	19910723	Male	31	Å 490		82694	Norrala	120	+46705409467	
+Å 926	yxTWjZs_w5	Erik	Rumler	Erik Thomas Daniel Rumler	19950331	Male	26	Å 926		69492	Hallsberg	182	+46703166126	
+Å Åkerby 6	hxxSlZZ55-	Gudrun Linnéa	Larsson	Gudrun Linnéa Larsson	19520207	Female	69	Å Åkerby 6		61029	Vikbolandet		+46706548803	
+Å Åkerby 6	xl25OGGGGq	Lars Gunnar Kenneth	Fyhr	Lars Gunnar Kenneth Fyhr	19521021	Male	70	Å Åkerby 6		61029	Vikbolandet			
+Å Åldersro	zRjwnHHHHG	Bo Peter Gunnar	Jonsson	Bo Peter Gunnar Jonsson	19580606	Male	63	Å Åldersro		61029	Vikbolandet			
+Å Åldersro	mtdjamsvb	Elsa	Jonsson	Alva Elsa Charlotte Jonsson	20040614	Female	17	Å Åldersro		61029	Vikbolandet			
+Å Åldersro	zRjwnHHHHq	Elisabeth	Jonsson	Ann Elisabeth Jonsson	19650204	Female	56	Å Åldersro		61029	Vikbolandet		+46768300204	
+Å Berga 8	xW2Z__5554	Hanna Maria	Andersson	Hanna Maria Andersson	19820315	Female	39	Å Berga 8		61029	Vikbolandet		+46708352368	
+Å Berga 8	mrrsyijkl	Albin	Ahlgrimmer	Karl Albin Magnus Ahlgrimmer	20060112	Male	16	Å Berga 8		61029	Vikbolandet			
+Å Berga 8	klmuxxdh	Karl Magnus Torkel	Ahlgrimmer	Karl Magnus Torkel Ahlgrimmer	19790812	Male	43	Å Berga 8		61029	Vikbolandet			
+Å Berga Mellangård	0LgZ54nnnU	Eva	Wessén	Eva Margareta Wessén	19640517	Female	57	Å Berga Mellangård		61029	Vikbolandet		+46738041199	
+Å Berga Mellangård	0LgZ54nnnO	Bengt	Wessén	Bengt Erik Wessén	19610415	Male	60	Å Berga Mellangård		61029	Vikbolandet		+46702061199	
+Å Bergalund	L~SlCXXXX4	Annette Maria Elisabeth	Solmell	Annette Maria Elisabeth Solmell	19590701	Female	63	Å Bergalund		61029	Vikbolandet		+46708277627	
+Å Berghaga 1	lpseapsuv	Kathrin	Voigt	Kathrin Voigt	19790314	Female	42	Å Berghaga 1		51264	Holsljunga	152		
+Å Berghaga 1	dRZwnHboAK	Kenneth	Larsson	Kenneth Arne Ingemar Larsson	19600424	Male	62	Å Berghaga 1		51264	Holsljunga	152		
+A Bergmans Väg 1	0xSRCmmO1H	Anton	Hellsing	Lars Anton Hellsing	19780117	Male	43	A Bergmans Väg 1		28231	Tyringe	84	+46706758146	
+A Bergmans Väg 1	VSMPsXvvvO	Jenny Alexandra	Rosqvist	Jenny Alexandra Rosqvist	19771018	Female	44	A Bergmans Väg 1		28231	Tyringe	84		
+A Bergmans Väg 10	~dM_C4nUHG	Patrik	Dahlman	Lars Ola Patrik Dahlman	19670409	Male	55	A Bergmans Väg 10		28231	Tyringe	90	+46738154553	
+A Bergmans Väg 11	LdRPCXUUHq	Mats Erling	Vohnsen	Mats Erling Vohnsen	19471029	Male	74	A Bergmans Väg 11		28231	Tyringe	168		
+A Bergmans Väg 11	LdRPCXUUHG	Wiveca	Vohnsen	Wiveca Inga-Lill Vohnsen	19550802	Female	67	A Bergmans Väg 11		28231	Tyringe	168		
+A Bergmans Väg 15	y~ddxl222Z	Gary Keith	Horner	Gary Keith Horner	19430710	Male	79	A Bergmans Väg 15		28231	Tyringe	91		
+A Bergmans Väg 20	dP2wObJJJA	Leif Ebbe Kennet	Berg	Leif Ebbe Kennet Berg	19440124	Male	78	A Bergmans Väg 20		28231	Tyringe	159		
+A Bergmans Väg 22	hMsXOJJJJ7	Loreta	Greivyte	Loreta Greivyte	19821011	Female	40	A Bergmans Väg 22		28231	Tyringe	127		
+A Bergmans Väg 3	LxRZ41qqqb	Per	Andersson	Per Otto Mikael Andersson	19571201	Male	65	A Bergmans Väg 3		28231	Tyringe	93		
+A Bergmans Väg 3	dxls_55554	Ing-Marie	Andersson	Ann Ing-Marie Andersson	19601016	Female	61	A Bergmans Väg 3		28231	Tyringe	93	+46705586900	
+A Bergmans Väg 5	dljXHHGboJ	Yoel	Harari	Yoel Harari	19580321	Male	64	A Bergmans Väg 5		28231	Tyringe	145	+46706065866	
+A Bergmans Väg 5	xgs_CC5Xvm	Gustaf	Ekenstierna	Gustaf David Ariel Harari Ekenstierna	19920214	Male	29	A Bergmans Väg 5		28231	Tyringe	145		
+A Bergmans Väg 5	i~~zllP2s_	Fanny Cecilia Elisabeth	Ekenstierna	Fanny Cecilia Elisabeth Harari Ekenstierna	19580315	Female	63	A Bergmans Väg 5		28231	Tyringe	145	+46730458926	
+A Bergmans Väg 6	LSPwwwXXXm	Birgitta	Svensson	Eva Birgitta Svensson	19520407	Female	69	A Bergmans Väg 6		28231	Tyringe	73	+46708554405	
+A Bergmans Väg 9	~T2s4UkAAK	Paul	Jönsson	Paul Christer Magnus Jönsson	19740525	Male	48	A Bergmans Väg 9		28231	Tyringe	157	+46721647317	
+A Bergmans Väg 9	zdxRwmmmmU	Christina	Schön	Christina Britt-Marie Schön	19741010	Female	48	A Bergmans Väg 9		28231	Tyringe	157		
+A Bergmans Väg 9	iimgobby	Amanda	Jönsson	Amanda Matilda Jennifer Jönsson	20020329	Female	19	A Bergmans Väg 9		28231	Tyringe	157		
+Å Björkbacken 927	dSMWC4444n	Radim	Gavlovský	Radim Gavlovský	19710321	Male	51	Å Björkbacken 927		69492	Hallsberg	80		
+Å Björkbacken 927	yxxRP2CC5-	Hana	Gavlovská	Hana Gavlovská	19710322	Female	51	Å Björkbacken 927		69492	Hallsberg	80		
+Å Björkebo	~Wj_XnnnnU	Hillevi Mildred Virginia	Johansson	Hillevi Mildred Virginia Johansson	19371220	Female	84	Å Björkebo		61029	Vikbolandet		+46702148470	
+Å Brånnebo	ixSjZC5vmn	Jenny	Bergholtz	Jenny Monika Bergholtz	19780601	Female	44	Å Brånnebo		61029	Vikbolandet			
+Å Brånnebo	zl_m1k7ecE	Jens	Karlsson	Jens Arne Karlsson	19720608	Male	49	Å Brånnebo		61029	Vikbolandet		+46702857010	
+Å Brånnestabacken	yhLSl5vmO1	Ewa	Ahl	Ewa Gunborg Ahl	19500402	Female	72	Å Brånnestabacken		61029	Vikbolandet			
+Å Brånnestad 10	dxgP_wmnU1	Nils Ove	Isaksson	Nils Ove Isaksson	19530411	Male	69	Å Brånnestad 10		61029	Vikbolandet		+46730756211	
+Å Brånnestad 16	LdTPw4444v	Gustaf Arnold	Ahlberg	Gustaf Arnold Ahlberg	19410813	Male	81	Å Brånnestad 16		61029	Vikbolandet		+46702245327	
+Å Brånnestad 2	zRwwwwvmOU	Tommy	Lundberg	Leif Börje Tommy Lundberg	19490210	Male	73	Å Brånnestad 2		61029	Vikbolandet			
+Å Brånnestad 2	VLMlj____w	Anna Karin	Hägerström	Anna Karin Emilia Hägerström	19480804	Female	73	Å Brånnestad 2		61029	Vikbolandet			
+Å Brånnestad 2	LT2-1KKEEa	Hans Filip	Hansson	Hans Filip Hansson	19451117	Male	76	Å Brånnestad 2		61029	Vikbolandet		+46705543459	
+Å Brånnestad 2	VLMlj____C	Lennart	Hägerström	Gustaf Göran Lennart Hägerström	19460408	Male	75	Å Brånnestad 2		61029	Vikbolandet		+46702469299	
+Å Brånnestad 2	~xTMMMj2s_	Anna-Karin	Lundberg	Anna-Karin Elisabeth Lundberg	19510402	Female	71	Å Brånnestad 2		61029	Vikbolandet		+46737222433	
+Å Brånnestad 2	dWWRPPZZ_C	Gunnel Ingrid Margareta	Ahl	Gunnel Ingrid Margareta Ahl	19441023	Female	78	Å Brånnestad 2		61029	Vikbolandet			
+Å Brånnestad 5	xlP--XX1HG	Ellinor	Thelander Ahl	Ellinor Gerd Thelander Ahl	19760425	Female	46	Å Brånnestad 5		61029	Vikbolandet			
+Å Brånnestad 5	dSPZvH7FFr	Karl Ruben Emanuel	Ahl	Karl Ruben Emanuel Ahl	19720727	Male	49	Å Brånnestad 5		61029	Vikbolandet			
+Å Brånnestad 7	0LTZ-mmmmn	Thomas	Karlsson	Thomas Nils Johan Karlsson	19670718	Male	54	Å Brånnestad 7		61029	Vikbolandet			
+Å Brånnestad 7	yhxPj5nnn1	Marie	Karlsson	Marie Christina Viktoria Dure Karlsson	19680223	Female	54	Å Brånnestad 7		61029	Vikbolandet			
+Å Brånnestad Betanien	00T25UqboJ	Kristian	Hedenqvist	Kristian Joakim Hedenqvist	19890302	Male	32	Å Brånnestad Betanien		61029	Vikbolandet		+46730394609	
+Å Brånnestad Betanien	xj-mHG77uc	Ida	Larsen	Ida Marie Evelyn Larsen	19921230	Female	29	Å Brånnestad Betanien		61029	Vikbolandet			
+Å Brånnestad Oppgård 1	0LgWs5-Xvm	Karl Ronnie Gerhard	Klepek	Karl Ronnie Gerhard Klepek	19760417	Male	45	Å Brånnestad Oppgård 1		61029	Vikbolandet			
+Å Brånnestad Oppgård 1	zM2ZX1oJK7	Maria	Klepek	Ingrid Maria Karolina Johansson Klepek	19700327	Female	51	Å Brånnestad Oppgård 1		61029	Vikbolandet		+46709224594	
+Å Brånnestad Oppgård 2	~gR_vHGGGk	Gerhard	Klepek	Gerhard Klepek	19410818	Male	80	Å Brånnestad Oppgård 2		61029	Vikbolandet			
+Å Brånnestad Oppgård 2	dWPCm1111H	Maud Hillevi Margareta	Klepek	Maud Hillevi Margareta Klepek	19431013	Female	79	Å Brånnestad Oppgård 2		61029	Vikbolandet		+46703558919	
+Å Brånnestad Storgård 1	hLxjCvnUHG	Börje	Hansson	Börje Hugo Hansson	19571029	Male	64	Å Brånnestad Storgård 1		61029	Vikbolandet			
+Å Brånnestad Storgård 1	LSjZsC5554	Camilla Marianne	Hansson	Camilla Marianne Hansson	19621127	Female	59	Å Brånnestad Storgård 1		61029	Vikbolandet			
+Å Broby Gård 1	0SM2-mmmmO	Lars Börje	Ulberstad	Lars Börje Ulberstad	19441208	Male	77	Å Broby Gård 1		61029	Vikbolandet		+46707954911	
+Å Broby Gård 1	0SM2-mmmmn	Inger Astrid Elisabet	Ulberstad	Inger Astrid Elisabet Ulberstad	19431130	Female	78	Å Broby Gård 1		61029	Vikbolandet		+4612541067	
+Å Broby Gård 2	zxW2CXHGbk	Lars Micael	Hult	Lars Micael Hult	19640127	Male	57	Å Broby Gård 2		61029	Vikbolandet		+46702768616	
+Å Broby Gård 2	yzWs5vvvvm	May Lena Veronika	Hult	May Lena Veronika Hult	19660911	Female	56	Å Broby Gård 2		61029	Vikbolandet			
+A C Lindblads Gata 1	xSgg24444n	Patrik	Hellberg	Patrik Alexander Hellberg	19830307	Male	38	A C Lindblads Gata 1		41871	Göteborg	98		
+A C Lindblads Gata 1	zzRP2Cw5X4	Sture	Hellberg	Sture Alexander Hellberg	19460207	Male	75	A C Lindblads Gata 1		41871	Göteborg	98	+46738424646	
+A C Lindblads Gata 10	~zzgRlw5X4	Anna	Seeman	Anna Margareta Seeman	19741007	Female	47	A C Lindblads Gata 10		41871	Göteborg	102		
+A C Lindblads Gata 10	hSj2Xvnnn1	Tom	Seeman	Tom Bertil Sebastian Seeman	19711116	Male	50	A C Lindblads Gata 10		41871	Göteborg	102		
+A C Lindblads Gata 11	Lgj-mm1Gbk	Susanna	Roth	Susanna Marianne Roth	19550103	Female	66	A C Lindblads Gata 11		41871	Göteborg	110	+46707811059	
+A C Lindblads Gata 11	Lgj-mm1Gbo	Péter Tamas	Roth	Péter Tamas Roth	19460918	Male	75	A C Lindblads Gata 11		41871	Göteborg	110	+46707883201	
+A C Lindblads Gata 2	~Tglsw444v	Leevi	Immonen	Leevi Immonen	19370821	Male	84	A C Lindblads Gata 2		41871	Göteborg	94		
+A C Lindblads Gata 3	kkqyffja	Ida	Gamelius	Ida Louise Gamelius	20040130	Female	17	A C Lindblads Gata 3		41871	Göteborg	100		
+A C Lindblads Gata 3	0dMWWlw5X4	Tony	Gamelius	John Tony Gamelius	19680819	Male	53	A C Lindblads Gata 3		41871	Göteborg	100	+46739786559	
+A C Lindblads Gata 3	hannvimg	Hanna	Gamelius	Hanna Viola Gamelius	20010307	Female	20	A C Lindblads Gata 3		41871	Göteborg	100		
+A C Lindblads Gata 3	VTjCXUA7eu	Ulrika	Gamelius	Ulrika Margareta Louise Gamelius	19730308	Female	48	A C Lindblads Gata 3		41871	Göteborg	100		
+A C Lindblads Gata 3	zRZXO1HHHb	Nathalie Veronika	Gamelius	Nathalie Veronika Gamelius	19910503	Female	30	A C Lindblads Gata 3		41871	Göteborg	100		
+A C Lindblads Gata 4	dTZ5nGoeeu	Leila Marian	Andersson	Leila Marian Andersson	19311110	Female	91	A C Lindblads Gata 4		41871	Göteborg	96	+46705202022	
+A C Lindblads Gata 5	0Tls--vvvO	Daniel	Sevo	Daniel Erik Sevo	19740707	Male	47	A C Lindblads Gata 5		41871	Göteborg	100		
+A C Lindblads Gata 5	zMWZCmbboJ	Elin	Engkvist	Elin Hanna Engkvist	19770927	Female	44	A C Lindblads Gata 5		41871	Göteborg	100	+46720701844	
+A C Lindblads Gata 6	xMPC-UUUUG	Michel	Pfeiffer	Michel Paul Wilhelm Pfeiffer	19760203	Male	45	A C Lindblads Gata 6		41871	Göteborg	101		
+A C Lindblads Gata 6	y0zxjCww-X	Åsa	Fock	Åsa Joanna Fock	19760511	Female	46	A C Lindblads Gata 6		41871	Göteborg	101	+46706767707	
+A C Lindblads Gata 7	ydSPjZs_w5	Daniel	Pantzar	Daniel Bernard Pantzar	19730114	Male	49	A C Lindblads Gata 7		41871	Göteborg	96	+46707883459	
+A C Lindblads Gata 8	xlww4nooAK	Henrik	Ossiansson	Clas Henrik Ossiansson	19730123	Male	49	A C Lindblads Gata 8		41871	Göteborg	101		
+A C Lindblads Gata 8	xlww4nooA7	Maud	Ossiansson	Maud Karin Ossiansson	19680209	Female	54	A C Lindblads Gata 8		41871	Göteborg	101		
+A C Lindblads Gata 9	iiizSRPPPZ	Richard	Federstedt	Richard Rainer Federstedt	19850301	Male	37	A C Lindblads Gata 9		41871	Göteborg	96		
+A C Lindblads Gata 9	yySR_-nO1H	Therése	Steffensen	Maria Therése Parkborn Steffensen	19871205	Female	34	A C Lindblads Gata 9		41871	Göteborg	96	+46704271389	
+A E Holmbergs Gata 10	dWR2CXnnnU	Ingegärd Ann-Mari	Dahlgren	Ingegärd Ann-Mari Dahlgren	19340811	Female	88	A E Holmbergs Gata 10		41871	Göteborg	125	+46739782986	
+A E Holmbergs Gata 10	dWR2CXnnnO	Verner Sven Ove	Dahlgren	Verner Sven Ove Dahlgren	19340308	Male	87	A E Holmbergs Gata 10		41871	Göteborg	125	+46724020426	
+A E Holmbergs Gata 12	anquuuvbx	Reza	Aslani	Reza Aslani	19690301	Male	53	A E Holmbergs Gata 12		41871	Göteborg	125	+46722211154	
+A E Holmbergs Gata 12	yLWsvmHHqb	Zeynep	Görgulu	Zeynep Görgulu	19730801	Female	49	A E Holmbergs Gata 12		41871	Göteborg	125	+46732523225	
+A E Holmbergs Gata 12	yhxMljjZ_C	Burak	Görgulu	Burak Görgulu	19950403	Male	26	A E Holmbergs Gata 12		41871	Göteborg	125		
+A E Holmbergs Gata 12	0SPj_mGqko	Yuksel	Görgulu	Yuksel Görgulu	19731201	Male	49	A E Holmbergs Gata 12		41871	Göteborg	125		
+A E Holmbergs Gata 12	VgWP_vO1Gq	Mert	Görgulu	Mert Görgulu	19970630	Male	24	A E Holmbergs Gata 12		41871	Göteborg	125	+46737449945	
+A E Holmbergs Gata 2	yxgR2_mmmU	John	Borgström	John Erik Borgström	19870716	Male	34	A E Holmbergs Gata 2		41871	Göteborg	125		
+A E Holmbergs Gata 2	VS2s5-XXXm	Elin	Borgström	Elin Maria Henrietta Borgström	19880323	Female	34	A E Holmbergs Gata 2		41871	Göteborg	125		
+A E Holmbergs Gata 4	iVTWj_---4	Margaretha	Eriksson	Irene Margaretha Eriksson	19410924	Female	81	A E Holmbergs Gata 4		41871	Göteborg	125		
+A E Holmbergs Gata 4	iVTWj_---X	Ralph	Eriksson	Ralph Ingemar Eriksson	19380323	Male	84	A E Holmbergs Gata 4		41871	Göteborg	125	+46702757795	
+A E Holmbergs Gata 6	xgZ-UbA7uc	Gustav	Svedung	Gustav Fredrik Svedung	19810127	Male	40	A E Holmbergs Gata 6		41871	Göteborg	125		
+A E Holmbergs Gata 6	zTl_mqqboJ	Frida	Svedung	Frida Anna Sofia Svedung	19830415	Female	38	A E Holmbergs Gata 6		41871	Göteborg	125		
+A E Holmbergs Gata 8	xWjssmOOOH	Johan	Blomqvist	Carl Johan Blomqvist	19760518	Male	45	A E Holmbergs Gata 8		41871	Göteborg	125		
+A E Holmbergs Gata 8	LLxljj2Z_C	Åse	Blomqvist	Elsa Åse Ulrika Blomqvist	19810509	Female	41	A E Holmbergs Gata 8		41871	Göteborg	125	+46721635327	
+Å Eken 2	~TW_vHGGGk	Birgitta	Kvist	Gunvor Rosa Birgitta Kvist	19410913	Female	81	Å Eken 2		51264	Holsljunga	85	+46723020331	
+A F Carlssons Gata 18 lgh 1001	VVLxMWWWlP	Anne	Karlsson	Anne Elisabeth Karlsson	19510415	Female	70	A F Carlssons Gata 18 lgh 1002	lgh	46233	Vänersborg	60	+46731011156	
+A F Carlssons Gata 18 lgh 1001	0SS2COO1Gq	Niklas	Vestlund	Nils Niklas Martin Vestlund	19970327	Male	24	A F Carlssons Gata 18 lgh 1001	lgh	46233	Vänersborg	55	+46730892836	
+A F Carlssons Gata 18 lgh 1002	VVLxMWWWlP	Anne	Karlsson	Anne Elisabeth Karlsson	19510415	Female	70	A F Carlssons Gata 18 lgh 1002	lgh	46233	Vänersborg	60	+46731011156	
+A F Carlssons Gata 18 lgh 1002	0SS2COO1Gq	Niklas	Vestlund	Nils Niklas Martin Vestlund	19970327	Male	24	A F Carlssons Gata 18 lgh 1001	lgh	46233	Vänersborg	55	+46730892836	
+Å Gård 1	xRPj_X11Gq	Charlotta	Skoglund	Charlotta Linnéa Skoglund	19790930	Female	42	Å Gård 1		51264	Holsljunga		+46705532392	
+Å Gård 1	dlwvGJucaQ	Fredrik	Stenbäcken	Fredrik Håkan Stenbäcken	19750112	Male	47	Å Gård 1		51264	Holsljunga		+46705780612	
+Å Grindstuga	yV~gZCnnU1	Daniel	Lundholm	Bo Daniel Lundholm	19800429	Male	41	Å Grindstuga		61029	Vikbolandet			
+Å Grindstuga	~gWRlj_w-X	Therese	Lundholm	Birgit Adela Therese Lundholm	19820302	Female	39	Å Grindstuga		61029	Vikbolandet		+46702105227	
+Å Grindstuga	agvyyiil	David	Lundholm	Bo Jan David Lundholm	20031210	Male	19	Å Grindstuga		61029	Vikbolandet			
+Å Häradslöt 1	VzdRP_C5X4	Inge	Karlsson	Inge Gunnar Arne Karlsson	19460620	Male	75	Å Häradslöt 1		61029	Vikbolandet		+46735930930	
+Å Klockaregård	V~xxWjs_w5	Kent	Karlsson	Lars Kent Karlsson	19550401	Male	67	Å Klockaregård		61029	Vikbolandet		+46705291165	
+Å Klockaregård	dMjsmHKEaQ	Catarina	Karlsson	Catarina Inger Helen Karlsson	19640711	Female	58	Å Klockaregård		61029	Vikbolandet		+46705611870	
+Å Kommunalhus	iihxxSMMRP	Mia	Christensen	Mia Madelene Christensen	19640612	Female	58	Å Kommunalhus		61029	Vikbolandet			
+Å Kommunalhus	iihxxSMMRl	Fredrik	Jonsson	Per Göran Fredrik Jonsson	19600720	Male	61	Å Kommunalhus		61029	Vikbolandet			
+Å Kulle 1	hS254m11Gq	Madelene	Bergenheim	Frida Viola Madelene Bergenheim	19790527	Female	42	Å Kulle 1		51264	Holsljunga	270	+46760484744	
+Å Kulle 1	ySWjXOkoAK	Simon	Bergenheim	Björn Daniel Simon Bergenheim	19781210	Male	44	Å Kulle 1		51264	Holsljunga	270		
+Å Kulle 1	lmgvhhgtu	Alfred	Bergenheim	Daniel Karl Alfred Bergenheim	20040415	Male	17	Å Kulle 1		51264	Holsljunga	270		
+Å Kulle 1	fnppppyh	Oliver	Bergenheim	Björn Simon Oliver Bergenheim	20010309	Male	21	Å Kulle 1		51264	Holsljunga	270		
+Å Kvarn 1	VhdTZX4mnU	Frans	Sjöqvist	Frans Robert Eric Sjöqvist	19771103	Male	44	Å Kvarn 1		51264	Holsljunga	158		
+Å Kvarn 1	VhdTZX4mnO	Lisa	Sjöqvist	Lisa Ingegerd Emelia Sjöqvist	19790205	Female	42	Å Kvarn 1		51264	Holsljunga	158		
+Å Lilla Linneberga	0xxSWRj-X4	Cecilia	Jonsson	Anna Cecilia Jonsson	19751203	Female	46	Å Lilla Linneberga		61029	Vikbolandet			
+Å Lilla Linneberga	idR_5OGJJA	Klas Gustav Erik	Jonsson	Klas Gustav Erik Jonsson	19731002	Male	49	Å Lilla Linneberga		61029	Vikbolandet		+46706759741	
+Å Lilla Rom 160	dWPCnkJKeu	Stefan	Gustafsson	Fred Stefan Gustafsson	19680327	Male	53	Å Lilla Rom 160		69492	Hallsberg	106	+46704855992	
+Å Lilla Rom 160	00xRjs--X4	Ebba	Leandersson	Ebba Sofia Leandersson	19750110	Female	47	Å Lilla Rom 160		69492	Hallsberg	106		
+Å Lövdalen 2	~T2_nOO1Gq	Seppo	Pernu	Seppo Sakari Pernu	19590403	Male	62	Å Lövdalen 2		61029	Vikbolandet		+46767120721	
+Å Lövdalen 2	LLSSWC-4mn	Nina	Pernu	Nina Sylvia Pernu	19640302	Female	58	Å Lövdalen 2		61029	Vikbolandet			
+Å Lundby 6	~MZ5UqkkJA	Anna	Laudon	Anna Maria Laudon	19760406	Female	45	Å Lundby 6		61029	Vikbolandet			
+Å Lundby 6	mtfccsel	Patrick	Laudon	Patrick John Göran Laudon	19831108	Male	39	Å Lundby 6		61029	Vikbolandet			
+Å Lundby 6	dxgMs5555-	Johan	Larsson	Johan Erik Rickard Larsson	19670110	Male	55	Å Lundby 6		61029	Vikbolandet		+46767902847	
+Å Lundby Säteri 3	zxll554mmn	Lars	Bröte	Lars Bertil Bröte	19380427	Male	84	Å Lundby Säteri 3		61029	Vikbolandet		+46705502220	
+Å Lundby Säteri 3	VTPPsX444n	Jutta	Bröte	Jutta Irmtraud Bröte	19390215	Female	83	Å Lundby Säteri 3		61029	Vikbolandet			
+Å Masugnen 909	dSM2s4vvvm	Bo Åke	Paulsson	Bo Åke Paulsson	19420711	Male	80	Å Masugnen 909		69492	Hallsberg	140		
+A P Kleens Väg 10	LS2Cvvnnn1	Miroslav	Havel	Miroslav Havel	19761220	Male	45	A P Kleens Väg 10		24271	Ludvigsborg	161	+46720408201	
+A P Kleens Väg 12	0~Wjw-444v	Hasse	Hasche	Hasse Eberhard Andreas Hasche	19490322	Male	73	A P Kleens Väg 12		24271	Ludvigsborg	108	+46733924061	
+A P Kleens Väg 14	hM_XOqqooJ	Lars Erik	Nilsson	Lars Erik Nilsson	19320424	Male	90	A P Kleens Väg 14		24271	Ludvigsborg	108		
+A P Kleens Väg 14	hM_XOqqooA	Anna Greta	Nilsson	Anna Greta Nilsson	19360909	Female	85	A P Kleens Väg 14		24271	Ludvigsborg	108	+46705685861	
+A P Kleens Väg 18	dT2wOUHHHG	Kjell	Andersson	Kjell Gunnar Andersson	19461118	Male	75	A P Kleens Väg 18		24271	Ludvigsborg	32	+46706961407	
+A P Kleens Väg 18	0TjXmbJA7e	Gun	Andersson	Gun Lisbeth Irene Andersson	19500126	Female	72	A P Kleens Väg 18		24271	Ludvigsborg	32	+46738326461	
+A P Kleens Väg 6	iyVTljZZZs	Erik	Eggers	Erik Johann Eggers	19590326	Male	63	A P Kleens Väg 6		24271	Ludvigsborg	110		
+A P Sjöbergs Väg 1	hLxljjjZ_C	Annika	Österlindh	Ingrid Annika Österlindh	19681205	Female	53	A P Sjöbergs Väg 1		21236	Malmö	148	+46708494173	
+A P Sjöbergs Väg 1	zMj_4GAKeu	Ulf	Österlindh	Ulf Niklas Österlindh	19660711	Male	56	A P Sjöbergs Väg 1		21236	Malmö	148		
+A P Sjöbergs Väg 10	Lxj_v1KcEa	Miroslav	Novosel	Miroslav Novosel	19650518	Male	56	A P Sjöbergs Väg 10		21236	Malmö	127		
+A P Sjöbergs Väg 10	~gPsvqeeeE	Robert	Novosel	Robert Ante Novosel	19980101	Male	24	A P Sjöbergs Väg 10		21236	Malmö	127		
+A P Sjöbergs Väg 11	dMMll2sssC	Terezia	Lagerman	Terezia Lagerman	19510603	Female	70	A P Sjöbergs Väg 11		21236	Malmö	157		
+A P Sjöbergs Väg 11	dMMll2sss_	Mats	Wallentheim	Mats Anders Wallentheim	19531022	Male	69	A P Sjöbergs Väg 11		21236	Malmö	157	+46767648353	
+A P Sjöbergs Väg 13	~TWlPZ___w	Heidi	Magnusson	Heidi Grill Magnusson	19761012	Female	46	A P Sjöbergs Väg 13		21236	Malmö	148	+46707205011	
+A P Sjöbergs Väg 13	~TWlPZ___C	Peter	Magnusson	Peter Leonard Magnusson	19750701	Male	47	A P Sjöbergs Väg 13		21236	Malmö	148		
+A P Sjöbergs Väg 15	hM2-mnUUU1	Jens	Holm	Jens Wilhelm Holm	19670511	Male	55	A P Sjöbergs Väg 15		21236	Malmö	166	+46707205275	
+A P Sjöbergs Väg 15	hM2-mnUUUH	Karin	Holm	Karin Solveig Holm	19681121	Female	54	A P Sjöbergs Väg 15		21236	Malmö	166		
+A P Sjöbergs Väg 15	nqsyjgtz	Axel	Holm	Axel Wilhelm Holm	20021015	Male	19	A P Sjöbergs Väg 15		21236	Malmö	166		
+A P Sjöbergs Väg 17	~Tl_-UU1Gb	Linda	Heincke	Linda Elisabet Heincke	19810701	Female	41	A P Sjöbergs Väg 17		21236	Malmö	160		
+A P Sjöbergs Väg 17	~Tl_-UU1Gq	Hans Marcus Christer	Heincke	Hans Marcus Christer Heincke	19800520	Male	42	A P Sjöbergs Väg 17		21236	Malmö	160		
+A P Sjöbergs Väg 19	zzdRs_4vnO	Momena	Gohari	Momena Gohari	19720222	Female	50	A P Sjöbergs Väg 19		21236	Malmö	130		
+A P Sjöbergs Väg 19	VSTPZC5-4v	Eljas	Gohari	Eljas Gohari	19930222	Male	29	A P Sjöbergs Väg 19		21236	Malmö	130	+46737659950	
+A P Sjöbergs Väg 19	yhT2XOUUUG	Sidiqa	Gohari	Sidiqa Gohari	19350102	Female	87	A P Sjöbergs Väg 19		21236	Malmö	130		
+A P Sjöbergs Väg 19	00zdxxjjjs	Zahra	Gohari	Zahra Gohari	19990311	Female	23	A P Sjöbergs Väg 19		21236	Malmö	130	+46709657119	
+A P Sjöbergs Väg 19	zTRC-HkoAK	Nasir Ahmad	Gohari	Nasir Ahmad Gohari	19700414	Male	52	A P Sjöbergs Väg 19		21236	Malmö	130	+46737838173	
+A P Sjöbergs Väg 3	zdP-XvnnnO	Lars Tommy	Milesson	Lars Tommy Milesson	19490703	Male	73	A P Sjöbergs Väg 3		21236	Malmö	127		
+A P Sjöbergs Väg 3	zdP-XvnnnU	Eva Agneta Elisabeth	Milesson	Eva Agneta Elisabeth Milesson	19510107	Female	70	A P Sjöbergs Väg 3		21236	Malmö	127		
+A P Sjöbergs Väg 4	dSMW_w---v	Sara	Wilén	Sara Charlotta Wilén	19711020	Female	50	A P Sjöbergs Väg 4		21236	Malmö	91		
+A P Sjöbergs Väg 4	0SSSlPsCw5	Johan	Theorin	Johan Fritz Alfred Theorin	19751112	Male	47	A P Sjöbergs Väg 4		21236	Malmö	91		
+A P Sjöbergs Väg 5	izTMWRPPPj	Mats	Nilsson	Mats Tomas Nilsson	19591201	Male	63	A P Sjöbergs Väg 5		21236	Malmö	127		
+A P Sjöbergs Väg 5	ySgWWlPPPZ	Johan Mattias	Nilsson	Johan Mattias Nilsson	19891205	Male	32	A P Sjöbergs Väg 5		21236	Malmö	127		
+A P Sjöbergs Väg 5	L~MRRP222_	Monica	Nilsson	Monica Anne-Marie Carlsten Nilsson	19610501	Female	61	A P Sjöbergs Väg 5		21236	Malmö	127		
+A P Sjöbergs Väg 7	~Sgs5m1Gbk	Mikael	Nilsson	Lars Thomas Mikael Nilsson	19640615	Male	57	A P Sjöbergs Väg 7		21236	Malmö	153	+46707877150	
+A P Sjöbergs Väg 9	yxWCC4Hqbk	Shahab	Alam Naghavi	Shahab Alam Naghavi	19681026	Male	54	A P Sjöbergs Väg 9		21236	Malmö	119	+46704765786	
+Å Parkvillan 225	0TjZXG777c	Marcus	McGowan	Marcus Staffan McGowan	19981019	Male	23	Å Parkvillan 225		45994	Ljungskile	167		
+Å Parkvillan 225	yzlP2CwwwX	Michellé	McGowan	Michellé Emily McGowan	19940330	Female	27	Å Parkvillan 225		45994	Ljungskile	167		
+Å Parkvillan 225	hTMPCvnnn1	Lucas	McGowan	Lucas Callum McGowan	19961208	Male	26	Å Parkvillan 225		45994	Ljungskile	167		
+Å Parkvillan 225	ySl5nUUUUH	Steven	McGowan	Steven John McGowan	19691119	Male	52	Å Parkvillan 225		45994	Ljungskile	167	+46702021442	
+Å Parkvillan 225	ySl5nUUUU1	Petra	McGowan	Karin Petra Sofie McGowan	19710606	Female	50	Å Parkvillan 225		45994	Ljungskile	167	+46707505280	
+A R Lorents Gata 43 lgh 1102	krbzzlcq	Filip	Tasic	Filip Marko Tasic	20010613	Male	21	A R Lorents Gata 43 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 43 lgh 1102	xSPCnnGqko	Darko	Tasic	Darko Tasic	19751209	Male	47	A R Lorents Gata 43 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 43 lgh 1102	zdgM_vOGqb	Andelka	Tasic	Andelka Tasic	19750405	Female	46	A R Lorents Gata 43 lgh 1102	lgh	41451	Göteborg	122	+46707984531	
+A R Lorents Gata 45	hTWP-nGGGk	Peter	Johansson	Peter Fritz Ingemar Johansson	19570209	Male	65	A R Lorents Gata 45		41451	Göteborg	61		
+A R Lorents Gata 47	Lgl2_mGqko	Anne	Bergman	Anne Helmi Helene Luhaäär Bergman	19671003	Female	54	A R Lorents Gata 47		41451	Göteborg	61		
+A R Lorents Gata 49 lgh 1101	~WjXHqJJJK	Maria	Jehander	Maria Ulrika Jehander	19640915	Female	57	A R Lorents Gata 49 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 49 lgh 1101	~WjXHqJJJA	Staffan	Jehander	Staffan Åke Jehander	19631012	Male	59	A R Lorents Gata 49 lgh 1102	lgh	41451	Göteborg	122	+46706588393	
+A R Lorents Gata 49 lgh 1101	ixPZs4O1Gq	Håkan	Löfving	Gustaf Håkan Löfving	19571002	Male	65	A R Lorents Gata 49 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 49 lgh 1101	zR_XnOJJJ7	Gabriel	Hannouch	Gabriel Christer Fahed Hölén Hannouch	20000614	Male	21	A R Lorents Gata 49 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 49 lgh 1101	~~xgRssssw	Jenny	Löfving	Jenny Maria Beata Hölén Löfving	19720906	Female	49	A R Lorents Gata 49 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 49 lgh 1102	~WjXHqJJJK	Maria	Jehander	Maria Ulrika Jehander	19640915	Female	57	A R Lorents Gata 49 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 49 lgh 1102	~WjXHqJJJA	Staffan	Jehander	Staffan Åke Jehander	19631012	Male	59	A R Lorents Gata 49 lgh 1102	lgh	41451	Göteborg	122	+46706588393	
+A R Lorents Gata 49 lgh 1102	ixPZs4O1Gq	Håkan	Löfving	Gustaf Håkan Löfving	19571002	Male	65	A R Lorents Gata 49 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 49 lgh 1102	zR_XnOJJJ7	Gabriel	Hannouch	Gabriel Christer Fahed Hölén Hannouch	20000614	Male	21	A R Lorents Gata 49 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 49 lgh 1102	~~xgRssssw	Jenny	Löfving	Jenny Maria Beata Hölén Löfving	19720906	Female	49	A R Lorents Gata 49 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 51	ddP-1HHAK7	Ulf	Julin	Ulf Gunnar Julin	19481011	Male	74	A R Lorents Gata 51		41451	Göteborg	61	+46708611163	
+A R Lorents Gata 53	VzTMW2CCCw	Mikael	Olsson	Eric Mikael Olsson	19680426	Male	54	A R Lorents Gata 53 BV		41451	Göteborg	61		
+A R Lorents Gata 55 lgh 1101	hMRsw-OOOH	Mikael	Darius	Mikael Darius	19630915	Male	58	A R Lorents Gata 55 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1101	VdPwmHbkJA	Mozhgan	Darius	Mozhgan Darius	19710607	Female	50	A R Lorents Gata 55 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1101	hTWjCO111q	Maral	Anvari	Maral Anvari	19970801	Female	25	A R Lorents Gata 55 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1101	mgqtzhmt	Elma	Lamberg	Elma Tuulikki Hollosy Lamberg	20050805	Female	16	A R Lorents Gata 55 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1101	hgP-4vHGbk	Rasmus	Lamberg	Rasmus Lamberg	19790524	Male	43	A R Lorents Gata 55 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1101	mpvimmuxy	Malin	Elmberg	Malin Anna Kristina Elmberg		Female		A R Lorents Gata 55 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1101	fkqbzdehi	Mira	Lamberg	Mira Magdalena Hollosy Lamberg	20030410	Female	19	A R Lorents Gata 55 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1102	hMRsw-OOOH	Mikael	Darius	Mikael Darius	19630915	Male	58	A R Lorents Gata 55 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1102	VdPwmHbkJA	Mozhgan	Darius	Mozhgan Darius	19710607	Female	50	A R Lorents Gata 55 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1102	hTWjCO111q	Maral	Anvari	Maral Anvari	19970801	Female	25	A R Lorents Gata 55 lgh 1102	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1102	mgqtzhmt	Elma	Lamberg	Elma Tuulikki Hollosy Lamberg	20050805	Female	16	A R Lorents Gata 55 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1102	hgP-4vHGbk	Rasmus	Lamberg	Rasmus Lamberg	19790524	Male	43	A R Lorents Gata 55 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 55 lgh 1102	fkqbzdehi	Mira	Lamberg	Mira Magdalena Hollosy Lamberg	20030410	Female	19	A R Lorents Gata 55 lgh 1101	lgh	41451	Göteborg	122		
+A R Lorents Gata 59	VgZCOU111q	Carl Oscar	Bengtsson	Carl Oscar Nils Bengtsson	19890906	Male	32	A R Lorents Gata 59		41451	Göteborg	61		
+A R Lorents Gata 61 lgh 1101	hxW_nHKKeu	Alexander	Esberg	Alexander Christer Esberg		Male		A R Lorents Gata 61 lgh 1102	lgh	41451	Göteborg	43	+46728809718	
+A R Lorents Gata 61 lgh 1101	Vgl5-4mnU1	Linda	Rosenfors	Linda Ingrid Cecilia Rosenfors	19760808	Female	45	A R Lorents Gata 61 lgh 1101	lgh	41451	Göteborg	82	+46708471828	
+A R Lorents Gata 61 lgh 1101	iyLSM_5Xvm	Jonas	Jacobsson	Jonas Fredrik André Jacobsson	19920603	Male	29	A R Lorents Gata 61 lgh 1202	lgh	41451	Göteborg	43	+46763203440	
+A R Lorents Gata 61 lgh 1101	yLgWWsCCC-	David	Ljungkvist	David Mikael Ljungkvist	19970115	Male	24	A R Lorents Gata 61 lgh 1002	lgh	41451	Göteborg	43		
+A R Lorents Gata 61 lgh 1101	00zl5OOUHG	Madeleine	Georgsson	Anna Madeleine Georgsson	19920705	Female	29	A R Lorents Gata 61 lgh 1202	lgh	41451	Göteborg	43	+46704551424	
+A R Lorents Gata 61 lgh 1101	VxlC54vnU1	Anders	Lindgren	Per Anders Lindgren		Male		A R Lorents Gata 61 lgh 1103	lgh	41451	Göteborg	79		
+A R Lorents Gata 61 lgh 1101	y~Rj_vOkoJ	Per Olof	Törnvall	Per Olof Törnvall	19450829	Male	76	A R Lorents Gata 61 lgh 1003	lgh	41451	Göteborg	76	+46706333226	
+A R Lorents Gata 61 lgh 1101	V~xMM__XX4	Marie	Bergqvist	Eva Marie Bergqvist	19670117	Female	54	A R Lorents Gata 61 lgh 1203	lgh	41451	Göteborg	79	+46703616628	
+A R Lorents Gata 61 lgh 1101	LzdxM_mmmU	Alexandra	Liljeqvist	Alexandra Elise Liljeqvist	19980705	Female	23	A R Lorents Gata 61 lgh 1002	lgh	41451	Göteborg	43		
+A R Lorents Gata 61 lgh 1101	xWP--vbboJ	Lena-Maria	Sandbacka	Lena-Maria Sandbacka	19601125	Female	62	A R Lorents Gata 61 lgh 1103	lgh	41451	Göteborg	79	+46733560112	
+A R Lorents Gata 61 lgh 1101	~S2wOJJJJ7	Guilherme Henrique	Ferreira Gomes	Guilherme Henrique Ferreira Gomes	19830819	Male	38	A R Lorents Gata 61 lgh 1301	lgh	41451	Göteborg	111		
+A R Lorents Gata 61 lgh 1201	hxW_nHKKeu	Alexander	Esberg	Alexander Christer Esberg		Male		A R Lorents Gata 61 lgh 1102	lgh	41451	Göteborg	43	+46728809718	
+A R Lorents Gata 61 lgh 1201	Vgl5-4mnU1	Linda	Rosenfors	Linda Ingrid Cecilia Rosenfors	19760808	Female	45	A R Lorents Gata 61 lgh 1101	lgh	41451	Göteborg	82	+46708471828	
+A R Lorents Gata 61 lgh 1201	iyLSM_5Xvm	Jonas	Jacobsson	Jonas Fredrik André Jacobsson	19920603	Male	29	A R Lorents Gata 61 lgh 1202	lgh	41451	Göteborg	43	+46763203440	
+A R Lorents Gata 61 lgh 1201	dTPCXvUHqb	Angelica	Ståhlbröst	Angelica Anna Maria Ståhlbröst		Female		A R Lorents Gata 61 lgh 1102	lgh	41451	Göteborg	43		
+A R Lorents Gata 61 lgh 1201	00zl5OOUHG	Madeleine	Georgsson	Anna Madeleine Georgsson	19920705	Female	29	A R Lorents Gata 61 lgh 1202	lgh	41451	Göteborg	43	+46704551424	
+A R Lorents Gata 61 lgh 1201	VxlC54vnU1	Anders	Lindgren	Per Anders Lindgren		Male		A R Lorents Gata 61 lgh 1103	lgh	41451	Göteborg	79		
+A R Lorents Gata 61 lgh 1201	y~Rj_vOkoJ	Per Olof	Törnvall	Per Olof Törnvall	19450829	Male	76	A R Lorents Gata 61 lgh 1003	lgh	41451	Göteborg	76	+46706333226	
+A R Lorents Gata 61 lgh 1201	LzdxM_mmmU	Alexandra	Liljeqvist	Alexandra Elise Liljeqvist	19980705	Female	23	A R Lorents Gata 61 lgh 1002	lgh	41451	Göteborg	43		
+A R Lorents Gata 61 lgh 1201	xWP--vbboJ	Lena-Maria	Sandbacka	Lena-Maria Sandbacka	19601125	Female	62	A R Lorents Gata 61 lgh 1103	lgh	41451	Göteborg	79	+46733560112	
+A R Lorents Gata 61 lgh 1202	00zl5OOUHG	Madeleine	Georgsson	Anna Madeleine Georgsson	19920705	Female	29	A R Lorents Gata 61 lgh 1202	lgh	41451	Göteborg	43	+46704551424	
+A R Lorents Gata 61 lgh 1202	VxlC54vnU1	Anders	Lindgren	Per Anders Lindgren		Male		A R Lorents Gata 61 lgh 1103	lgh	41451	Göteborg	79		
+A R Lorents Gata 61 lgh 1202	~S2wOJJJJ7	Guilherme Henrique	Ferreira Gomes	Guilherme Henrique Ferreira Gomes	19830819	Male	38	A R Lorents Gata 61 lgh 1301	lgh	41451	Göteborg	111		
+A R Lorents Gata 61 lgh 1203	hxW_nHKKeu	Alexander	Esberg	Alexander Christer Esberg		Male		A R Lorents Gata 61 lgh 1102	lgh	41451	Göteborg	43	+46728809718	
