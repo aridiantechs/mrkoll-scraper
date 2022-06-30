@@ -1,6 +1,6 @@
 <?php
 
-error_reporting(E_ALL);
+error_reporting(0);
 ini_set('memory_limit', '-1');
 
 include_once('simple_html_dom.php');
