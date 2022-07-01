@@ -354,7 +354,9 @@ function get_web_page( $url )
 
 
         foreach(array_unique($addresses) as $key => $address){
-//             echo $key;
+
+            if($key < 3888)
+                continue;
 
             $input = trim($address);
 
