@@ -393,8 +393,6 @@ class MyTest
 
             $obj = new MyTest();
 
-            echo $address;
-            // $recursive_count = 0;
             $obj->getData($address, $key, $file_name);
         }
 
