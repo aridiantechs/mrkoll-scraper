@@ -351,16 +351,18 @@ class MyTest
 
     if(1){
 
-        echo $input_file_name = php_uname('n');
-        die();
-
+        $input_file_name = php_uname('n');
+        
         $file_name = "final";
         
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         
         fclose($file);
 
-        $file_addresses = fopen("source/input-1.txt", "r") or die("Unable to open file!");
+        $input_file_name = 'source/' . $input_file_name . '.txt';
+
+        // $file_addresses = fopen("source/input-1.txt", "r") or die("Unable to open file!");
+        $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
 
         $addresses   = [];
         $unique_addresses = [];
