@@ -148,39 +148,39 @@ function get_web_page( $url )
         return $age;
     }
 
-    function getData($input, $address, $key, $file_name)
+    function getData($address, $key, $file_name, $next_page = null)
     {
+        $input = $address;
 
         $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
-        // $result = explode(' lgh', $address);
-            
-        // $address = $result[0];
-
         $address = str_replace(' ', '+', urlencode($address));
 
-        $url = 'https://www.hitta.se/s%C3%B6k?vad='.$address.'&typ=prv&sida=1&changedTab=1';
+        if($next_page){
+
+            $next_page = preg_replace('/\s+/', ' ', $next_page);
+            $next_page = str_replace('&amp;', '&', $next_page);
+            $url = 'https://www.hitta.se' . $next_page;            
+
+        }
+
+        else
+            $url = 'https://www.hitta.se/s%C3%B6k?vad='.$address.'&typ=prv&sida=1&changedTab=1';
+
 
         $result = get_web_page($url);
         $html   = $result['content'];
-        $dom    = str_get_html($html);
+        $dom1    = str_get_html($html);
         
         $page_links   = [];
         $page_link    = '';
         $living_type  = '';
 
 
-        // echo $html;die();
+        if(gettype($dom1) !== 'boolean'){
 
-        if(gettype($dom) !== 'boolean'){
-
-            $found = false;
-
-            foreach($dom->find('.style_searchResult__KcJ6E') as $key => $element){
-
-
-                // echo $element;die();
-
+            foreach($dom1->find('.style_searchResult__KcJ6E') as $key => $element){
+                
                 $page_link = $element->find('.style_searchResultLink__2i2BY', 0)->href;
                 $s_address = $element->find('.style_displayLocation__BN9e_', 0)->plaintext;
 
@@ -235,21 +235,14 @@ function get_web_page( $url )
                     $phone  = $user_data['telephone'] ?? '';
                     $gender = $user_data['gender'] ?? '';
                     $dob    = $user_data['birthDate'] ?? '';
-
-
                     $age = '';
-                    
                     if($dob)
                         $age = findAge($user_data['birthDate'] ?? '');
 
-
-                    $search_url = explode("/", $page_link);
-
+                    $search_url    = explode("/", $page_link);
                     $search_string = end($search_url);
 
-                    // die();
-
-
+                    
                     // Store data
                     if($name == ''){
                         createLog($key,$input,'Scraper issue');
@@ -281,21 +274,32 @@ function get_web_page( $url )
                 }
             }
 
+            if(!is_null($dom1->find('div[data-trackcat="search-result-pagination"] a'))){
 
-            // die();
+                $next_page = 0;
+                
+                foreach ($dom1->find('div[data-trackcat="search-result-pagination"] a') as $key => $elem) {
 
-            
+                    if(trim($elem->plaintext) !== 'Föregående')
+                        $next_page = $elem->href;
+                
+                }
+
+                if($next_page)
+                    getData($input, $key, $file_name, trim($next_page));
+            }
+
 
         }
         else{
             
             createLog($key,$original_address,'Proxy or Scraper not working');
-            sleep(10);
-            return;
+            // sleep(10);
+            // return;
         
         }
 
-        
+        return;        
 
     }
 
@@ -342,7 +346,7 @@ function get_web_page( $url )
         $file_addresses = fopen("source/input-1.txt", "r") or die("Unable to open file!");
 
         $addresses   = [];
-        $u_addresses = [];
+        $unique_addresses = [];
 
 
         while (($line = fgets($file_addresses)) !== false)
@@ -351,22 +355,19 @@ function get_web_page( $url )
 
         foreach(array_unique($addresses) as $key => $address){
 
-            if($key < 3888)
-                continue;
+            // if($key < 3888)
+            //     continue;
 
             $input         = trim($address);
 
             $result        = explode(' lgh', $address);
 
-            $u_addresses[] = $result[0];
+            $unique_addresses[] = $result[0];
 
         }
 
 
-        foreach(array_unique($u_addresses) as $key => $address){
-
-            getData($address, $address, $key, $file_name);
-
-        }
+        foreach(array_unique($unique_addresses) as $key => $address)
+            getData($address, $key, $file_name);
 
     }
