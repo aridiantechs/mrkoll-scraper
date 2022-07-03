@@ -9,9 +9,8 @@ use Rct567\DomQuery\DomQuery;
 use HeadlessChromium\BrowserFactory;
 
 
-class MyTest
+class Scraper
 {
-    public $a;
     public $recursive_count;
 
     function __construct() {
@@ -362,6 +361,7 @@ class MyTest
         $input_file_name = 'source/' . $input_file_name . '.txt';
 
         // $file_addresses = fopen("source/input-1.txt", "r") or die("Unable to open file!");
+        $input_file_name = str_replace("scraper","input","Hello world!");
         $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
 
         $addresses   = [];
@@ -391,7 +391,7 @@ class MyTest
 
         foreach(array_unique($unique_addresses) as $key => $address){
 
-            $obj = new MyTest();
+            $obj = new Scraper();
 
             $obj->getData($address, $key, $file_name);
         }
