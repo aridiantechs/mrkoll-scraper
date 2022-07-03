@@ -339,9 +339,9 @@ function get_web_page( $url )
 
         $file_name = "final";
         
-        // $file = fopen('uploads/'.$file_name.'.txt', "w");
+        $file = fopen('uploads/'.$file_name.'.txt', "w");
         
-        // fclose($file);
+        fclose($file);
 
         $file_addresses = fopen("source/input-1.txt", "r") or die("Unable to open file!");
 
