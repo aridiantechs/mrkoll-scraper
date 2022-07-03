@@ -351,7 +351,7 @@ class MyTest
 
     if(1){
 
-        $input_file_name = php_uname('n');
+        echo $input_file_name = php_uname('n');
         die();
 
         $file_name = "final";
