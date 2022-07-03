@@ -1,6 +1,7 @@
 <?php
 
-error_reporting(0);
+error_reporting(E_ALL);
+ini_set('memory_limit', '-1');
 
 include_once('simple_html_dom.php');
 require_once (__DIR__ . '/vendor/autoload.php');
@@ -8,7 +9,16 @@ use Rct567\DomQuery\DomQuery;
 use HeadlessChromium\BrowserFactory;
 
 
-function get_web_page( $url )
+class MyTest
+{
+    public $a;
+    public $recursive_count;
+
+    function __construct() {
+        $this->recursive_count = 0;
+    }
+
+    public function get_web_page( $url )
     {
         $user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:8.0) Gecko/20100101 Firefox/8.0';
 
@@ -47,9 +57,7 @@ function get_web_page( $url )
         return $header;
     }
 
-
-
-    function getDataWithAPI( $url )
+    public function getDataWithAPI( $url )
     {
         $user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:8.0) Gecko/20100101 Firefox/8.0';
 
@@ -104,8 +112,7 @@ function get_web_page( $url )
         
     }
 
-
-    function headLessRequest($url){
+    public function headLessRequest($url){
 
         $browserCommand = 'google-chrome';
 
@@ -126,7 +133,7 @@ function get_web_page( $url )
         }
     }
 
-    function putTestHtml($html = '')
+    public function putTestHtml($html = '')
     {
         file_put_contents("uploads/html.txt", "");
 
@@ -136,8 +143,7 @@ function get_web_page( $url )
         fclose($myfile);
     }
 
-
-    function findAge($birthDate = null)
+    public function findAge($birthDate = null)
     {
         $birthDate = explode("-", $birthDate);
         
@@ -148,8 +154,12 @@ function get_web_page( $url )
         return $age;
     }
 
-    function getData($address, $key, $file_name, $next_page = null)
+    public function getData($address, $key, $file_name, $next_page = null)
     {
+        if($this->recursive_count > 5)
+            return;
+
+
         $input = $address;
 
         $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
@@ -168,7 +178,7 @@ function get_web_page( $url )
             $url = 'https://www.hitta.se/s%C3%B6k?vad='.$address.'&typ=prv&sida=1&changedTab=1';
 
 
-        $result = get_web_page($url);
+        $result = $this->get_web_page($url);
         $html   = $result['content'];
         $dom1    = str_get_html($html);
         
@@ -186,7 +196,7 @@ function get_web_page( $url )
 
                 if (strpos($s_address, $original_address) !== false){
 
-                    $result = get_web_page('https://www.hitta.se/'.$page_link);
+                    $result = $this->get_web_page('https://www.hitta.se/'.$page_link);
                     $html   = $result['content'];
                     $dom    = str_get_html($html);
 
@@ -237,7 +247,7 @@ function get_web_page( $url )
                     $dob    = $user_data['birthDate'] ?? '';
                     $age = '';
                     if($dob)
-                        $age = findAge($user_data['birthDate'] ?? '');
+                        $age = $this->findAge($user_data['birthDate'] ?? '');
 
                     $search_url    = explode("/", $page_link);
                     $search_string = end($search_url);
@@ -285,8 +295,10 @@ function get_web_page( $url )
                 
                 }
 
-                if($next_page)
-                    getData($input, $key, $file_name, trim($next_page));
+                if($next_page){
+                    $this->recursive_count++;
+                    $this->getData($input, $key, $file_name, trim($next_page));
+                }
             }
 
 
@@ -303,7 +315,7 @@ function get_web_page( $url )
 
     }
 
-    function createLog($key,$address,$page_link, $address_found = false){
+    public function createLog($key,$address,$page_link, $address_found = false){
         
         $myfile = fopen('./logs/log.txt', "a") or die("Unable to open file!");
 
@@ -333,9 +345,14 @@ function get_web_page( $url )
         }
     }
 
+    }
+
 
 
     if(1){
+
+        $input_file_name = php_uname('n');
+        die();
 
         $file_name = "final";
         
@@ -362,12 +379,21 @@ function get_web_page( $url )
 
             $result        = explode(' lgh', $address);
 
+            if(strlen(trim($result[0])) <= 2)
+                continue;
+
             $unique_addresses[] = $result[0];
 
         }
 
 
-        foreach(array_unique($unique_addresses) as $key => $address)
-            getData($address, $key, $file_name);
+        foreach(array_unique($unique_addresses) as $key => $address){
+
+            $obj = new MyTest();
+
+            echo $address;
+            // $recursive_count = 0;
+            $obj->getData($address, $key, $file_name);
+        }
 
     }
