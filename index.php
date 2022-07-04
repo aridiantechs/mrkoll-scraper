@@ -112,29 +112,6 @@ class Scraper
         
     }
 
-    public function headLessRequest($url)
-    {
-
-        $browserCommand = 'google-chrome';
-
-        $browserFactory = new BrowserFactory($browserCommand);
-        $browser = $browserFactory->createBrowser([
-                    'customFlags' => ['--no-sandbox'],
-                ]);
-
-        try {
-            // creates a new page and navigate to an url
-            $page = $browser->createPage();
-            $page->navigate($url)->waitForNavigation();
-
-            return $page->getHtml();
-        }
-        finally {
-            $browser->close();
-        }
-        
-    }
-
     public function putTestHtml($html = '')
     {
         file_put_contents("uploads/html.txt", "");
@@ -163,9 +140,8 @@ class Scraper
         if($this->recursive_count > 5)
             return;
 
-
         $input = $address;
-
+        
         $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
         $address = str_replace(' ', '+', urlencode($address));
@@ -193,16 +169,16 @@ class Scraper
 
         if(gettype($dom1) !== 'boolean'){
 
+            if(!is_numeric(substr($original_address, 0, 1)))
+                $original_address = preg_replace('/(\d+)/', '${1} ', $original_address);
+
             foreach($dom1->find('.style_searchResult__KcJ6E') as $key => $element){
-                
+
                 $page_link = $element->find('.style_searchResultLink__2i2BY', 0)->href;
                 $s_address = $element->find('.style_displayLocation__BN9e_', 0)->plaintext;
 
-
-                if(!is_numeric(substr($original_address, 0, 1)))
-                    $original_address = preg_replace('/(\d+)/', '${1} ', $original_address);
-
-                // echo '   >>>>   ' . $s_address . '    <<<<   ';
+                // echo '   >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';
+                
                 if (strpos($s_address, $original_address) !== false){
 
                     $result = $this->get_web_page('https://www.hitta.se/'.$page_link);
@@ -293,6 +269,9 @@ class Scraper
                         fclose($myfile);
                     }
 
+                }
+                else{
+                    // echo ' Failing due to unmatch address    ';
                 }
             }
 
@@ -393,12 +372,19 @@ class Scraper
         
         // fclose($file);
 
-        $input_file_name = str_replace("scraper", "input", $input_file_name);
-        $input_file_name = 'source/' . $input_file_name . '.txt';
 
-        // $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
+        if($input_file_name == 'DESKTOP-AJFT9FC')
+        
+            $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
+        
+        else{
+        
+            $input_file_name = str_replace("scraper", "input", $input_file_name);
+            $input_file_name = 'source/' . $input_file_name . '.txt';
+            $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
+        
+        }
 
-        $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
 
         $addresses   = [];
         $unique_addresses = [];
