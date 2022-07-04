@@ -179,7 +179,7 @@ class Scraper
 
                 // echo '   >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';
                 
-                if (strpos($s_address, $original_address) !== false){
+                if (strpos(trim($s_address), trim($original_address)) !== false){
 
                     $result = $this->get_web_page('https://www.hitta.se/'.$page_link);
                     $html   = $result['content'];
@@ -431,6 +431,7 @@ class Scraper
             $obj->getData($address, $key, $file_name);
             
             $obj = NULL;
+            
         }
 
     }
