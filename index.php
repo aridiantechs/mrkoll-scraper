@@ -54,6 +54,7 @@ class Scraper
         $header['errmsg']  = $errmsg;
         $header['content'] = $content;
         return $header;
+
     }
 
     public function getDataWithAPI( $url )
@@ -111,7 +112,8 @@ class Scraper
         
     }
 
-    public function headLessRequest($url){
+    public function headLessRequest($url)
+    {
 
         $browserCommand = 'google-chrome';
 
@@ -130,6 +132,7 @@ class Scraper
         finally {
             $browser->close();
         }
+        
     }
 
     public function putTestHtml($html = '')
@@ -140,6 +143,7 @@ class Scraper
         $txt = $html;
         fwrite($myfile, $txt);
         fclose($myfile);
+        
     }
 
     public function findAge($birthDate = null)
@@ -151,6 +155,7 @@ class Scraper
         : (date("Y") - $birthDate[0]));
         
         return $age;
+        
     }
 
     public function getData($address, $key, $file_name, $next_page = null)
@@ -193,6 +198,11 @@ class Scraper
                 $page_link = $element->find('.style_searchResultLink__2i2BY', 0)->href;
                 $s_address = $element->find('.style_displayLocation__BN9e_', 0)->plaintext;
 
+
+                if(!is_numeric(substr($original_address, 0, 1)))
+                    $original_address = preg_replace('/(\d+)/', '${1} ', $original_address);
+
+                // echo '   >>>>   ' . $s_address . '    <<<<   ';
                 if (strpos($s_address, $original_address) !== false){
 
                     $result = $this->get_web_page('https://www.hitta.se/'.$page_link);
@@ -254,7 +264,7 @@ class Scraper
                     
                     // Store data
                     if($name == ''){
-                        createLog($key,$input,'Scraper issue');
+                        $this->createLog($key,$input,'Scraper issue');
                     }
                     else{
 
@@ -294,7 +304,10 @@ class Scraper
                 
                 }
 
-                if($next_page){
+                // echo $next_page . '  =>  ' . $this->recursive_count . '                            ';
+
+                if(trim($next_page)){
+
                     $this->recursive_count++;
                     $this->getData($input, $key, $file_name, trim($next_page));
                 }
@@ -304,7 +317,7 @@ class Scraper
         }
         else{
             
-            createLog($key,$original_address,'Proxy or Scraper not working');
+            $this->createLog($key,$original_address,'Proxy or Scraper not working');
             // sleep(10);
             // return;
         
@@ -314,7 +327,8 @@ class Scraper
 
     }
 
-    public function createLog($key,$address,$page_link, $address_found = false){
+    public function createLog($key,$address,$page_link, $address_found = false)
+    {
         
         $myfile = fopen('./logs/log.txt', "a") or die("Unable to open file!");
 
@@ -342,9 +356,10 @@ class Scraper
             fclose($myfile);            
 
         }
+        
     }
 
-    }
+}
 
 
 
@@ -354,14 +369,15 @@ class Scraper
         
         $file_name = "final";
         
-        $file = fopen('uploads/'.$file_name.'.txt', "w");
+        // $file = fopen('uploads/'.$file_name.'.txt', "w");
         
-        fclose($file);
+        // fclose($file);
 
+        $input_file_name = str_replace("scraper", "input", $input_file_name);
         $input_file_name = 'source/' . $input_file_name . '.txt';
 
-        // $file_addresses = fopen("source/input-1.txt", "r") or die("Unable to open file!");
-        $input_file_name = str_replace("scraper","input","Hello world!");
+        // $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
+
         $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
 
         $addresses   = [];
@@ -373,9 +389,6 @@ class Scraper
 
 
         foreach(array_unique($addresses) as $key => $address){
-
-            // if($key < 3888)
-            //     continue;
 
             $input         = trim($address);
 
