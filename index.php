@@ -396,9 +396,9 @@ class Scraper
         $input_file_name = str_replace("scraper", "input", $input_file_name);
         $input_file_name = 'source/' . $input_file_name . '.txt';
 
-        $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
+        // $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
 
-        // $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
+        $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
 
         $addresses   = [];
         $unique_addresses = [];
