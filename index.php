@@ -210,8 +210,8 @@ class Scraper
                     $dom    = str_get_html($html);
 
 
-                    $name            = $dom->find('.heading--1', 0)->plaintext;
-                    $address_details = $dom->find('address', 0)->plaintext;
+                    $name            = !is_null($dom->find('.heading--1', 0)) ? $dom->find('.heading--1', 0)->plaintext : '';
+                    $address_details = !is_null($dom->find('address', 0)) ? $dom->find('address', 0)->plaintext : '';
                     
                     $pos = preg_split("/\r\n|\n|\r/", $address_details);
                     
@@ -225,23 +225,26 @@ class Scraper
                     }
 
 
-
-                    $address_type = $dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)->plaintext. '     ';
+                    $address_type = ($dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)) ? $dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)->plaintext : '';
 
                     if (strpos($address_type, 'Lägenhetsnummer') !== false){
                         $address = $address . ' lgh ' . filter_var($address_type, FILTER_SANITIZE_NUMBER_INT);
                         $address_type = 'lgh';
                     }
-                    else
+                    if(trim($address_type) == 'Vägbeskrivning')
                         $address_type = '';
 
-                    if (is_null($dom->find('#floor_area h3', 0)))
-                        $floor_area = '';
-                    else{
+                    
+                    $floor_area = '';
+
+                    if (!is_null($dom->find('#floor_area h3', 0))){
 
                         $floor_area = $dom->find('#floor_area h3', 0)->plaintext;
+
                         $floor_area = filter_var(str_replace("m2", "", $floor_area), FILTER_SANITIZE_NUMBER_INT);
+
                     }
+
 
                     $user_json = strip_tags($dom->find('script[type=application/ld+json]', 0));
 
@@ -359,6 +362,23 @@ class Scraper
         
     }
 
+    public function getLastAddress()
+    {
+        
+        $file_addresses = fopen('uploads/final.txt', "r") or die("Unable to open file!");
+
+        $last_line = '';
+
+        while (($line = fgets($file_addresses)) !== false)
+            $last_line = $line;
+
+        $last_address = [];
+        $last_address = preg_split("/\t+/", $last_line);
+
+        return $last_address[0] ?? '';
+
+    }
+
 }
 
 
@@ -376,9 +396,9 @@ class Scraper
         $input_file_name = str_replace("scraper", "input", $input_file_name);
         $input_file_name = 'source/' . $input_file_name . '.txt';
 
-        // $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
+        $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
 
-        $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
+        // $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
 
         $addresses   = [];
         $unique_addresses = [];
@@ -401,12 +421,30 @@ class Scraper
 
         }
 
+        // get the last line from final.txt
+        $obj = new Scraper();
+        $last_address = $obj->getLastAddress();
+        $obj = NULL;
+
+        $found = false;
 
         foreach(array_unique($unique_addresses) as $key => $address){
 
+            if($last_address && !$found){
+                
+                if(trim($last_address) !== trim($address))
+                    continue;
+                
+                else
+                    $found = true;
+            
+            }
+            
             $obj = new Scraper();
 
             $obj->getData($address, $key, $file_name);
+            
+            $obj = NULL;
         }
 
     }
