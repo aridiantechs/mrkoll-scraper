@@ -172,15 +172,24 @@ class Scraper
             if(!is_numeric(substr($original_address, 0, 1)))
                 $original_address = preg_replace('/(\d+)/', '${1} ', $original_address);
 
+            else{
+
+                $add       = explode(' ', $original_address);
+                $last_item = preg_replace('/(\d+)/', '${1} ', end($add));
+                array_pop($add);
+                $original_address = implode(" ",$add) . ' ' . $last_item;
+            
+            }
+
             foreach($dom1->find('.style_searchResult__KcJ6E') as $key => $element){
 
                 $page_link = $element->find('.style_searchResultLink__2i2BY', 0)->href;
                 $s_address = $element->find('.style_displayLocation__BN9e_', 0)->plaintext;
 
-                // echo '   >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';
                 
                 if (strpos(trim($s_address), trim($original_address)) !== false){
 
+                    // echo '   >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';
                     $result = $this->get_web_page('https://www.hitta.se/'.$page_link);
                     $html   = $result['content'];
                     $dom    = str_get_html($html);
@@ -271,7 +280,7 @@ class Scraper
 
                 }
                 else{
-                    // echo ' Failing due to unmatch address    ';
+                    // echo ' Failing due to unmatch address  >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';;
                 }
             }
 
