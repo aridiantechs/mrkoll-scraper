@@ -59,6 +59,7 @@ class Scraper
 
     public function getDataWithAPI( $url )
     {
+        
         $user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:8.0) Gecko/20100101 Firefox/8.0';
 
         $options = array(
@@ -194,88 +195,91 @@ class Scraper
                     $html   = $result['content'];
                     $dom    = str_get_html($html);
 
+                    if(gettype($dom) !== 'boolean'){
 
-                    $name            = !is_null($dom->find('.heading--1', 0)) ? $dom->find('.heading--1', 0)->plaintext : '';
-                    $address_details = !is_null($dom->find('address', 0)) ? $dom->find('address', 0)->plaintext : '';
-                    
-                    $pos = preg_split("/\r\n|\n|\r/", $address_details);
-                    
-                    $address = $pos[0] ?? '';
-                    
-                    $city_postal = $pos[1] ?? '';
-                    
-                    if($city_postal){
-                        $city = preg_replace('/[0-9]+/', '', $city_postal);
-                        $postal = filter_var($city_postal, FILTER_SANITIZE_NUMBER_INT);
-                    }
-
-
-                    $address_type = ($dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)) ? $dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)->plaintext : '';
-
-                    if (strpos($address_type, 'Lägenhetsnummer') !== false){
-                        $address = $address . ' lgh ' . filter_var($address_type, FILTER_SANITIZE_NUMBER_INT);
-                        $address_type = 'lgh';
-                    }
-                    if(trim($address_type) == 'Vägbeskrivning')
-                        $address_type = '';
-
-                    
-                    $floor_area = '';
-
-                    if (!is_null($dom->find('#floor_area h3', 0))){
-
-                        $floor_area = $dom->find('#floor_area h3', 0)->plaintext;
-
-                        $floor_area = filter_var(str_replace("m2", "", $floor_area), FILTER_SANITIZE_NUMBER_INT);
-
-                    }
-
-
-                    $user_json = strip_tags($dom->find('script[type=application/ld+json]', 0));
-
-                    $user_data = json_decode($user_json, true);
-
-                    $ssn    = str_replace('-', '', $user_data['birthDate'] ?? '');
-                    $f_name = $user_data['givenName'] ?? '';
-                    $l_name = $user_data['familyName'] ?? '';
-                    $name   = $user_data['alternateName'] ?? '';
-                    $phone  = $user_data['telephone'] ?? '';
-                    $gender = $user_data['gender'] ?? '';
-                    $dob    = $user_data['birthDate'] ?? '';
-                    $age = '';
-                    if($dob)
-                        $age = $this->findAge($user_data['birthDate'] ?? '');
-
-                    $search_url    = explode("/", $page_link);
-                    $search_string = end($search_url);
-
-                    
-                    // Store data
-                    if($name == ''){
-                        $this->createLog($key,$input,'Scraper issue');
-                    }
-                    else{
-
-                        $txt = trim($input)            . "\t" .
-                               trim($search_string)    . "\t" .
-                               trim($f_name)           . "\t" .
-                               trim($l_name)           . "\t" .
-                               trim($name)             . "\t" .
-                               trim($ssn)              . "\t" .
-                               trim($gender)           . "\t" .
-                               trim($age)              . "\t" .
-                               trim($address)          . "\t" .
-                               trim($address_type)     . "\t" .
-                               trim($postal)           . "\t" .
-                               trim($city)             . "\t" .
-                               trim($floor_area)       . "\t" .
-                               trim($phone)            . "\t";
-
-                        $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
+                        $name            = !is_null($dom->find('.heading--1', 0)) ? $dom->find('.heading--1', 0)->plaintext : '';
+                        $address_details = !is_null($dom->find('address', 0)) ? $dom->find('address', 0)->plaintext : '';
                         
-                        fwrite($myfile, $txt);
-                        fwrite($myfile, "\n");
-                        fclose($myfile);
+                        $pos = preg_split("/\r\n|\n|\r/", $address_details);
+                        
+                        $address = $pos[0] ?? '';
+                        
+                        $city_postal = $pos[1] ?? '';
+                        
+                        if($city_postal){
+                            $city = preg_replace('/[0-9]+/', '', $city_postal);
+                            $postal = filter_var($city_postal, FILTER_SANITIZE_NUMBER_INT);
+                        }
+
+
+                        $address_type = ($dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)) ? $dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)->plaintext : '';
+
+                        if (strpos($address_type, 'Lägenhetsnummer') !== false){
+                            $address = $address . ' lgh ' . filter_var($address_type, FILTER_SANITIZE_NUMBER_INT);
+                            $address_type = 'lgh';
+                        }
+
+                        if(trim($address_type) == 'Vägbeskrivning')
+                            $address_type = '';
+
+                        
+                        $floor_area = '';
+
+                        if (!is_null($dom->find('#floor_area h3', 0))){
+
+                            $floor_area = $dom->find('#floor_area h3', 0)->plaintext;
+
+                            $floor_area = filter_var(str_replace("m2", "", $floor_area), FILTER_SANITIZE_NUMBER_INT);
+
+                        }
+
+
+                        $user_json = strip_tags($dom->find('script[type=application/ld+json]', 0));
+
+                        $user_data = json_decode($user_json, true);
+
+                        $ssn    = str_replace('-', '', $user_data['birthDate'] ?? '');
+                        $f_name = $user_data['givenName'] ?? '';
+                        $l_name = $user_data['familyName'] ?? '';
+                        $name   = $user_data['alternateName'] ?? '';
+                        $phone  = $user_data['telephone'] ?? '';
+                        $gender = $user_data['gender'] ?? '';
+                        $dob    = $user_data['birthDate'] ?? '';
+                        $age = '';
+                        if($dob)
+                            $age = $this->findAge($user_data['birthDate'] ?? '');
+
+                        $search_url    = explode("/", $page_link);
+                        $search_string = end($search_url);
+
+                        
+                        // Store data
+                        if($name == ''){
+                            $this->createLog($key,$input,'Scraper issue');
+                        }
+                        else{
+
+                            $txt = trim($input)            . "\t" .
+                                   trim($search_string)    . "\t" .
+                                   trim($f_name)           . "\t" .
+                                   trim($l_name)           . "\t" .
+                                   trim($name)             . "\t" .
+                                   trim($ssn)              . "\t" .
+                                   trim($gender)           . "\t" .
+                                   trim($age)              . "\t" .
+                                   trim($address)          . "\t" .
+                                   trim($address_type)     . "\t" .
+                                   trim($postal)           . "\t" .
+                                   trim($city)             . "\t" .
+                                   trim($floor_area)       . "\t" .
+                                   trim($phone)            . "\t";
+
+                            $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
+                            
+                            fwrite($myfile, $txt);
+                            fwrite($myfile, "\n");
+                            fclose($myfile);
+                        }
                     }
 
                 }
