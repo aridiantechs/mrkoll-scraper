@@ -90,7 +90,7 @@ class Scraper
         $ch = curl_init( $url );
         curl_setopt_array( $ch, $options );
 
-        $result = curl_exec( $ch );
+        $result  = curl_exec( $ch );
         $err     = curl_errno( $ch );
         $errmsg  = curl_error( $ch );
         $header  = curl_getinfo( $ch );
@@ -137,190 +137,107 @@ class Scraper
     }
 
     public function getData($address, $key, $file_name, $next_page = null)
-    {
-        if($this->recursive_count > 5)
-            return;
-
+    {   
         $input = $address;
-        
-        $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
-        $address = str_replace(' ', '+', urlencode($address));
-
-        if($next_page){
-
-            $next_page = preg_replace('/\s+/', ' ', $next_page);
-            $next_page = str_replace('&amp;', '&', $next_page);
-            $url = 'https://www.hitta.se' . $next_page;            
-
-        }
-
-        else
-            $url = 'https://www.hitta.se/s%C3%B6k?vad='.$address.'&typ=prv&sida=1&changedTab=1';
-
+        $url = 'https://mrkoll.se/resultat?n='.$address.'&c=&min=16&max=120&sex=a&c_stat=all&company=';
 
         $result = $this->get_web_page($url);
         $html   = $result['content'];
-        $dom1    = str_get_html($html);
+        $dom    = str_get_html($html);
         
         $page_links   = [];
-        $page_link    = '';
-        $living_type  = '';
 
+        if(gettype($dom) !== 'boolean'){
 
-        if(gettype($dom1) !== 'boolean'){
-
-            if(!is_numeric(substr($original_address, 0, 1)))
-                $original_address = preg_replace('/(\d+)/', '${1} ', $original_address);
-
-            else{
-
-                $add       = explode(' ', $original_address);
-                $last_item = preg_replace('/(\d+)/', '${1} ', end($add));
-                array_pop($add);
-                $original_address = implode(" ",$add) . ' ' . $last_item;
+            $check_empty = $dom->find('.name_head1.name_fix span.f_line1');
             
+            if(empty($check_empty))
+                return;
+
+
+            $tokens = strip_tags($dom->find('script[type=application/javascript]', 2));
+
+            $tokens = explode('\'', $tokens);
+
+            $p = $tokens[1];
+
+            $k = $tokens[3];
+
+            $url    = 'https://mrkoll.se/ajax/lastDigits/?p=.'.$p.'.&k='.$k;
+            $result = $this->get_web_page($url);
+            
+            $ssn_remaining = $result['content'];
+
+            $name = $dom->find('.name_head1.name_fix span.f_line1', 0)->plaintext;
+            $dob  = $dom->find('.personInfo.pBlock1 strong', 0)->plaintext;
+
+            foreach($dom->find('.block_col1 .f_head1') as $key => $element){
+
+                $address = ($element->plaintext == 'Folkbokföringsadress') ? ($dom->find('.f_line2', $key)->plaintext . ' ' . $dom->find('.f_line2', $key+1)->plaintext) : '';
+                break;
+
             }
 
-            foreach($dom1->find('.style_searchResult__KcJ6E') as $key => $element){
 
-                $page_link = $element->find('.style_searchResultLink__2i2BY', 0)->href;
-                $s_address = $element->find('.style_displayLocation__BN9e_', 0)->plaintext;
+            foreach($dom->find('.f_head1') as $key => $element){
 
+                if($element->plaintext == 'Kommun')
+                    $municipality = $dom->find('.f_line2', $key + 1)->plaintext;
+
+                if($element->plaintext == 'Län')
+                    $county       = $dom->find('.f_line2', $key + 1)->plaintext;
+
+                if($element->plaintext == 'Personnummer')
+                    $ssn          = $dom->find('.f_line2', $key + 1)->plaintext;
+
+                if($element->plaintext == 'Kön')
+                    $gender       = $dom->find('.f_line2', $key + 1)->plaintext;
+
+                if($element->plaintext == 'Flyttdatum')
+                    $moving_date  = $dom->find('.f_line2', $key + 1)->plaintext;
                 
-                if (strpos(trim($s_address), trim($original_address)) !== false){
+            }
 
-                    // echo '   >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';
-                    $result = $this->get_web_page('https://www.hitta.se/'.$page_link);
-                    $html   = $result['content'];
-                    $dom    = str_get_html($html);
-
-                    if(gettype($dom) !== 'boolean'){
-
-                        $name            = !is_null($dom->find('.heading--1', 0)) ? $dom->find('.heading--1', 0)->plaintext : '';
-                        $address_details = !is_null($dom->find('address', 0)) ? $dom->find('address', 0)->plaintext : '';
-                        
-                        $pos = preg_split("/\r\n|\n|\r/", $address_details);
-                        
-                        $address = $pos[0] ?? '';
-                        
-                        $city_postal = $pos[1] ?? '';
-                        
-                        if($city_postal){
-                            $city = preg_replace('/[0-9]+/', '', $city_postal);
-                            $postal = filter_var($city_postal, FILTER_SANITIZE_NUMBER_INT);
-                        }
-
-
-                        $address_type = ($dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)) ? $dom->find('.styleManual_addressBox__qXjxb .mb-2', 0)->plaintext : '';
-
-                        if (strpos($address_type, 'Lägenhetsnummer') !== false){
-                            $address = $address . ' lgh ' . filter_var($address_type, FILTER_SANITIZE_NUMBER_INT);
-                            $address_type = 'lgh';
-                        }
-
-                        if(trim($address_type) == 'Vägbeskrivning')
-                            $address_type = '';
-
-                        
-                        $floor_area = '';
-
-                        if (!is_null($dom->find('#floor_area h3', 0))){
-
-                            $floor_area = $dom->find('#floor_area h3', 0)->plaintext;
-
-                            $floor_area = filter_var(str_replace("m2", "", $floor_area), FILTER_SANITIZE_NUMBER_INT);
-
-                        }
-
-
-                        $user_json = strip_tags($dom->find('script[type=application/ld+json]', 0));
-
-                        $user_data = json_decode($user_json, true);
-
-                        $ssn    = str_replace('-', '', $user_data['birthDate'] ?? '');
-                        $f_name = $user_data['givenName'] ?? '';
-                        $l_name = $user_data['familyName'] ?? '';
-                        $name   = $user_data['alternateName'] ?? '';
-                        $phone  = $user_data['telephone'] ?? '';
-                        $gender = $user_data['gender'] ?? '';
-                        $dob    = $user_data['birthDate'] ?? '';
-                        $age = '';
-                        if($dob)
-                            $age = $this->findAge($user_data['birthDate'] ?? '');
-
-                        $search_url    = explode("/", $page_link);
-                        $search_string = end($search_url);
-
-                        
-                        // Store data
-                        if($name == ''){
-                            $this->createLog($key,$input,'Scraper issue');
-                        }
-                        else{
-
-                            $txt = trim($input)            . "\t" .
-                                   trim($search_string)    . "\t" .
-                                   trim($f_name)           . "\t" .
-                                   trim($l_name)           . "\t" .
-                                   trim($name)             . "\t" .
-                                   trim($ssn)              . "\t" .
-                                   trim($gender)           . "\t" .
-                                   trim($age)              . "\t" .
-                                   trim($address)          . "\t" .
-                                   trim($address_type)     . "\t" .
-                                   trim($postal)           . "\t" .
-                                   trim($city)             . "\t" .
-                                   trim($floor_area)       . "\t" .
-                                   trim($phone)            . "\t";
-
-                            $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
-                            
-                            fwrite($myfile, $txt);
-                            fwrite($myfile, "\n");
-                            fclose($myfile);
-                        }
-                    }
-
+            $ssn = str_replace('XXXX', $ssn_remaining, $ssn);
+            
+            if (1){
+                // Store data
+                if($name == ''){
+                    $this->createLog($key,$input,'Scraper issue');
                 }
                 else{
-                    // echo ' Failing due to unmatch address  >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';;
+
+                    $txt = trim($input ?? '')         . "\t" .
+                           trim($name ?? '')          . "\t" .
+                           trim($dob ?? '')           . "\t" .
+                           trim($address ?? '')       . "\t" .
+                           trim($municipality ?? '')  . "\t" .
+                           trim($county ?? '')        . "\t" .
+                           trim($ssn ?? '')           . "\t" .
+                           trim($gender ?? '')        . "\t" .
+                           trim($moving_date ?? '')   . "\t" ;
+
+                    $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
+                    
+                    fwrite($myfile, $txt);
+                    fwrite($myfile, "\n");
+                    fclose($myfile);
+
+                    return;
+                
                 }
             }
-
-            if(!is_null($dom1->find('div[data-trackcat="search-result-pagination"] a'))){
-
-                $next_page = 0;
-                
-                foreach ($dom1->find('div[data-trackcat="search-result-pagination"] a') as $key => $elem) {
-
-                    if(trim($elem->plaintext) !== 'Föregående')
-                        $next_page = $elem->href;
-                
-                }
-
-                // echo $next_page . '  =>  ' . $this->recursive_count . '                            ';
-
-                if(trim($next_page)){
-
-                    $this->recursive_count++;
-                    $this->getData($input, $key, $file_name, trim($next_page));
-                }
-            }
-
 
         }
         else{
-            
-            $this->createLog($key,$original_address,'Proxy or Scraper not working');
-            // sleep(10);
-            // return;
-        
+            // echo ' Failing due to unmatch address  >>>>   ' . $s_address . ' == ' . $original_address . '    <<<<   ';;
         }
+            
 
-        return;        
 
     }
+        
 
     public function createLog($key,$address,$page_link, $address_found = false)
     {
@@ -380,16 +297,12 @@ class Scraper
         $input_file_name = php_uname('n');
         
         $file_name = "final";
-        
-        // $file = fopen('uploads/'.$file_name.'.txt', "w");
-        
-        // fclose($file);
+        $file = fopen('uploads/'.$file_name.'.txt', "w");
+        fclose($file);
 
 
         if($input_file_name == 'DESKTOP-AJFT9FC')
-        
             $file_addresses = fopen("source/ubuntu-s-1vcpu-1gb-amd-fra1-01.txt", "r") or die("Unable to open file!");
-        
         else{
         
             $input_file_name = str_replace("scraper", "input", $input_file_name);
@@ -407,18 +320,7 @@ class Scraper
             $addresses[] = $line;
 
 
-        foreach(array_unique($addresses) as $key => $address){
-
-            $input         = trim($address);
-
-            $result        = explode(' lgh', $address);
-
-            if(strlen(trim($result[0])) <= 2)
-                continue;
-
-            $unique_addresses[] = $result[0];
-
-        }
+        
 
         // get the last line from final.txt
         $obj = new Scraper();
@@ -427,7 +329,7 @@ class Scraper
 
         $found = false;
 
-        foreach(array_unique($unique_addresses) as $key => $address){
+        foreach(array_unique($addresses) as $key => $address){
 
             if($last_address && !$found){
                 
@@ -440,8 +342,8 @@ class Scraper
             }
             
             $obj = new Scraper();
-
-            $obj->getData($address, $key, $file_name);
+   
+            $obj->getData(trim($address), $key, $file_name);
             
             $obj = NULL;
             

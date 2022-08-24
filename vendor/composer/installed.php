@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '84fc40f0f35c77c4b763aca28b82426a709942c2',
+        'reference' => '4bf2fa2b5cc7133a10b4ce78dd907d51083a0316',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '84fc40f0f35c77c4b763aca28b82426a709942c2',
+            'reference' => '4bf2fa2b5cc7133a10b4ce78dd907d51083a0316',
             'dev_requirement' => false,
         ),
         'rct567/dom-query' => array(
