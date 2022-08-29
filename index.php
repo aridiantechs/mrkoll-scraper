@@ -38,7 +38,7 @@ class Scraper
             CURLOPT_MAXREDIRS      => 10,       // stop after 10 redirects
             CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
             CURLOPT_PROXYPORT      => '22225',
-            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone-country-se:0xwx5ytxlfcc',
+            CURLOPT_PROXYUSERPWD   => 'lum-customer-c_f5e790d6-zone-res_rotating:3hi2p873lczq',
             CURLOPT_HTTPPROXYTUNNEL=> 1,
         );
         
@@ -140,6 +140,8 @@ class Scraper
     {   
         $input = $address;
 
+        file_put_contents("cookie.txt", "");
+
         $url = 'https://mrkoll.se/resultat?n='.$address.'&c=&min=16&max=120&sex=a&c_stat=all&company=';
 
         $result = $this->get_web_page($url);
@@ -150,10 +152,15 @@ class Scraper
 
         if(gettype($dom) !== 'boolean'){
 
+
             $check_empty = $dom->find('.name_head1.name_fix span.f_line1');
             
-            if(empty($check_empty))
+            if(empty($check_empty)){
+                $this->createLog($key,$input,'Empty array / Proxy issue');
                 return;
+            }
+            else
+                $this->createLog($key,$input, $url, true);
 
 
             $tokens = strip_tags($dom->find('script[type=application/javascript]', 2));
